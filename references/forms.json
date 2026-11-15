@@ -1,0 +1,1961 @@
+[
+  {
+    "id": "hokkaido-1",
+    "profile_id": "hokkaido",
+    "name": "様式1 街路樹1次点検表",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf",
+        "edition": "平成30年2月",
+        "pdf_pages": [
+          2
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "北海道",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "hokkaido-2",
+    "profile_id": "hokkaido",
+    "name": "様式1別紙 写真",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf",
+        "edition": "平成30年2月",
+        "pdf_pages": [
+          3
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "北海道",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "hokkaido-3",
+    "profile_id": "hokkaido",
+    "name": "様式2 街路樹専門診断調査カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf",
+        "edition": "平成30年2月",
+        "pdf_pages": [
+          4
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "北海道",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "hokkaido-4",
+    "profile_id": "hokkaido",
+    "name": "様式2別紙 局部写真",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf",
+        "edition": "平成30年2月",
+        "pdf_pages": [
+          5
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "北海道",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "kanagawa-1",
+    "profile_id": "kanagawa",
+    "name": "表4 定期診断カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.pref.kanagawa.jp/documents/28818/shindan.pdf",
+        "edition": "令和8年4月",
+        "pdf_pages": [
+          11
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "神奈川県",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": "kanagawa-2",
+    "profile_id": "kanagawa",
+    "name": "表5 定期診断一覧表（記入例）",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "pdf_example",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.pref.kanagawa.jp/documents/28818/shindan.pdf",
+        "edition": "令和8年4月",
+        "pdf_pages": [
+          12
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "神奈川県",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": "tokyo-1",
+    "profile_id": "tokyo",
+    "name": "樹木点検表様式",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "editable_original",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053663",
+        "edition": "令和3年度（正誤表R3.6.30を同梱）",
+        "pdf_pages": [],
+        "sheet": "樹木点検表様式"
+      },
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          30
+        ],
+        "printed_pages": [
+          132
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-2",
+    "profile_id": "tokyo",
+    "name": "点検表様式カルテ形式",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "editable_original",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053663",
+        "edition": "令和3年度（正誤表R3.6.30を同梱）",
+        "pdf_pages": [],
+        "sheet": "点検表様式カルテ形式"
+      },
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          32
+        ],
+        "printed_pages": [
+          134
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-3",
+    "profile_id": "tokyo",
+    "name": "街路樹診断カルテ様式",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "editable_original",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664",
+        "edition": "令和3年度（正誤表R3.6.30を同梱）",
+        "pdf_pages": [],
+        "sheet": "街路樹診断カルテ様式"
+      },
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          33,
+          34
+        ],
+        "printed_pages": [
+          135,
+          136
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-4",
+    "profile_id": "tokyo",
+    "name": "腐朽診断カルテ(レジ)様式",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "editable_original",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664",
+        "edition": "令和3年度（正誤表R3.6.30を同梱）",
+        "pdf_pages": [],
+        "sheet": "腐朽診断カルテ(レジ)様式"
+      },
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          47
+        ],
+        "printed_pages": [
+          149
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-5",
+    "profile_id": "tokyo",
+    "name": "根株診断カルテ(レジ)様式",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "editable_original",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664",
+        "edition": "令和3年度（正誤表R3.6.30を同梱）",
+        "pdf_pages": [],
+        "sheet": "根株診断カルテ(レジ)様式"
+      },
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          48
+        ],
+        "printed_pages": [
+          150
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-6",
+    "profile_id": "tokyo",
+    "name": "フォローアップ診断カルテ様式",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "editable_original",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664",
+        "edition": "令和3年度（正誤表R3.6.30を同梱）",
+        "pdf_pages": [],
+        "sheet": "フォローアップ診断カルテ様式"
+      },
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          49,
+          50
+        ],
+        "printed_pages": [
+          151,
+          152
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "kumamoto-1",
+    "profile_id": "kumamoto",
+    "name": "街路樹管理チェックリスト（18項目）",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.pref.kumamoto.jp/uploaded/attachment/14505.pdf",
+        "edition": "平成24年3月",
+        "pdf_pages": [
+          5
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "熊本県",
+    "prefecture": "熊本県"
+  },
+  {
+    "id": "osaka-city-1",
+    "profile_id": "osaka-city",
+    "name": "参考資料1 巡視点検カルテ",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          18
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "osaka-city-2",
+    "profile_id": "osaka-city",
+    "name": "樹木点検・フォローアップ点検表（個表）【街路樹】",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          22,
+          23
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "osaka-city-3",
+    "profile_id": "osaka-city",
+    "name": "樹木点検・フォローアップ点検表（総括表）",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          26
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "osaka-city-4",
+    "profile_id": "osaka-city",
+    "name": "参考資料7 樹木医診断カルテ（街路樹）",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          27,
+          28
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "osaka-city-5",
+    "profile_id": "osaka-city",
+    "name": "参考資料9 機器診断カルテ（票内表題：精密診断カルテ・貫入抵抗値調査票）",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          31
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "hamamatsu-1",
+    "profile_id": "hamamatsu",
+    "name": "様式1 通常巡回票",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.hamamatsu.shizuoka.jp/documents/172743/gairojyutennkennshinndanngaidorain.pdf",
+        "edition": "令和8年1月（原本表紙確認）",
+        "pdf_pages": [
+          21
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "浜松市",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": "hamamatsu-2",
+    "profile_id": "hamamatsu",
+    "name": "様式2 簡易診断カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.hamamatsu.shizuoka.jp/documents/172743/gairojyutennkennshinndanngaidorain.pdf",
+        "edition": "令和8年1月（原本表紙確認）",
+        "pdf_pages": [
+          22
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "浜松市",
+    "prefecture": "静岡県"
+  },
+  {
+    "id": "sapporo-1",
+    "profile_id": "sapporo",
+    "name": "様式1 街路樹診断カルテ（記入例）",
+    "stage_label": "外観・専門診断",
+    "scope": "individual_contract",
+    "status": "pdf_example",
+    "verified_at": "2026-10-20",
+    "limitations": [
+      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
+        "edition": "令和8年度・街路樹診断業務（その1）個別仕様",
+        "pdf_pages": [
+          11
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "札幌市",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "sapporo-2",
+    "profile_id": "sapporo",
+    "name": "様式2 診断図・詳細写真（記入例）",
+    "stage_label": "外観・専門診断",
+    "scope": "individual_contract",
+    "status": "pdf_example",
+    "verified_at": "2026-10-20",
+    "limitations": [
+      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
+        "edition": "令和8年度・街路樹診断業務（その1）個別仕様",
+        "pdf_pages": [
+          12
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "札幌市",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "sapporo-3",
+    "profile_id": "sapporo",
+    "name": "様式3 総括表（記入例）",
+    "stage_label": "外観・専門診断",
+    "scope": "individual_contract",
+    "status": "pdf_example",
+    "verified_at": "2026-10-20",
+    "limitations": [
+      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
+        "edition": "令和8年度・街路樹診断業務（その1）個別仕様",
+        "pdf_pages": [
+          13
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "札幌市",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "sapporo-4",
+    "profile_id": "sapporo",
+    "name": "様式4 路線別・樹種別集計",
+    "stage_label": "外観・専門診断",
+    "scope": "individual_contract",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [
+      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
+        "edition": "令和8年度・街路樹診断業務（その1）個別仕様",
+        "pdf_pages": [
+          14,
+          15
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "札幌市",
+    "prefecture": "北海道"
+  },
+  {
+    "id": "nagoya-1",
+    "profile_id": "nagoya",
+    "name": "様式1 道路パトロール日報",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf",
+        "edition": "令和8年1月",
+        "pdf_pages": [
+          31
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": "nagoya-2",
+    "profile_id": "nagoya",
+    "name": "様式2 日常点検・日常巡視結果報告書",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf",
+        "edition": "令和8年1月",
+        "pdf_pages": [
+          32
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": "nagoya-3",
+    "profile_id": "nagoya",
+    "name": "様式3 日常巡視報告書",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf",
+        "edition": "令和8年1月",
+        "pdf_pages": [
+          33
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": "nagoya-4",
+    "profile_id": "nagoya",
+    "name": "様式4 道路巡視員業務実施報告書",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf",
+        "edition": "令和8年1月",
+        "pdf_pages": [
+          34
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": "nagoya-5",
+    "profile_id": "nagoya",
+    "name": "様式5 道路巡視員日報",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf",
+        "edition": "令和8年1月",
+        "pdf_pages": [
+          35,
+          36
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": "nagoya-6",
+    "profile_id": "nagoya",
+    "name": "様式6 街路樹定期点検報告用シート",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-10-20",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf",
+        "edition": "令和8年1月",
+        "pdf_pages": [
+          37
+        ],
+        "sheet": null
+      }
+    ],
+    "issuer": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "id": "tokyo-form-4",
+    "profile_id": "tokyo",
+    "name": "様式4 腐朽診断カルテ（ツリーガンマ）",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          35
+        ],
+        "printed_pages": [
+          137
+        ],
+        "example_pdf_pages": [
+          36
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-form-5",
+    "profile_id": "tokyo",
+    "name": "様式5 腐朽診断カルテ（アーボソニック単断面）",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          37
+        ],
+        "printed_pages": [
+          139
+        ],
+        "example_pdf_pages": [
+          38
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-form-6",
+    "profile_id": "tokyo",
+    "name": "様式6 腐朽診断カルテ（アーボソニック多断面）",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          39
+        ],
+        "printed_pages": [
+          141
+        ],
+        "example_pdf_pages": [
+          40
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-form-7",
+    "profile_id": "tokyo",
+    "name": "様式7 腐朽診断カルテ（ドクターウッズ）",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          41
+        ],
+        "printed_pages": [
+          143
+        ],
+        "example_pdf_pages": [
+          42
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-form-8",
+    "profile_id": "tokyo",
+    "name": "様式8 腐朽診断カルテ（ツリースキャン）",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          43
+        ],
+        "printed_pages": [
+          145
+        ],
+        "example_pdf_pages": [
+          44
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-form-9",
+    "profile_id": "tokyo",
+    "name": "様式9 腐朽診断カルテ（ピカス）",
+    "stage_label": "機器・精密診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          45
+        ],
+        "printed_pages": [
+          147
+        ],
+        "example_pdf_pages": [
+          46
+        ]
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "tokyo-form-13",
+    "profile_id": "tokyo",
+    "name": "様式13 断面調査表",
+    "stage_label": "断面検証",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
+        "edition": "令和3年度",
+        "pdf_pages": [
+          51,
+          52
+        ],
+        "printed_pages": [
+          153,
+          154
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "東京都",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "osaka-city-6",
+    "profile_id": "osaka-city",
+    "name": "参考資料2 公園日常巡視点検カード（様式2）",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公園施設全体を扱う票は樹木専用カルテと区別。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          19,
+          20
+        ],
+        "printed_pages": [
+          51,
+          52
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "osaka-city-7",
+    "profile_id": "osaka-city",
+    "name": "参考資料3 公園施設定期点検表（様式3）",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公園施設全体を扱う票は樹木専用カルテと区別。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          21
+        ],
+        "printed_pages": [
+          53
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "osaka-city-8",
+    "profile_id": "osaka-city",
+    "name": "参考資料5 樹木点検・フォローアップ点検表（個表）【公園樹】",
+    "stage_label": "巡視・点検",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公園樹用。街路樹用とは別の様式。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          24,
+          25
+        ],
+        "printed_pages": [
+          56,
+          57
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "osaka-city-9",
+    "profile_id": "osaka-city",
+    "name": "参考資料8 樹木医診断カルテ【公園樹】",
+    "stage_label": "外観・専門診断",
+    "scope": "issuer_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "公園樹用。街路樹用とは別の様式。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+        "edition": "令和8年3月",
+        "pdf_pages": [
+          29,
+          30
+        ],
+        "printed_pages": [
+          61,
+          62
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "mlit-park-1",
+    "profile_id": "mlit-park",
+    "name": "Ⅵ 樹木点検票（個表）",
+    "stage_label": "巡視・点検",
+    "scope": "national_reference",
+    "status": "editable_original",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "定期点検用の参考様式。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
+        "edition": "令和8年3月30日",
+        "pdf_pages": [
+          28
+        ],
+        "printed_pages": [
+          27
+        ],
+        "example_pdf_pages": []
+      },
+      {
+        "url": "https://www.mlit.go.jp/toshi/park/content/001414805.docx",
+        "edition": "令和8年3月30日掲載版",
+        "section": "Ⅵ 樹木点検票（個表）"
+      }
+    ],
+    "issuer": "国土交通省（都市公園）",
+    "prefecture": "全国"
+  },
+  {
+    "id": "mlit-park-2",
+    "profile_id": "mlit-park",
+    "name": "Ⅵ 樹木点検票（総括表）",
+    "stage_label": "集計・履歴",
+    "scope": "national_reference",
+    "status": "editable_original",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "定期点検用の参考様式。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
+        "edition": "令和8年3月30日",
+        "pdf_pages": [
+          29
+        ],
+        "printed_pages": [
+          28
+        ],
+        "example_pdf_pages": []
+      },
+      {
+        "url": "https://www.mlit.go.jp/toshi/park/content/001414805.docx",
+        "edition": "令和8年3月30日掲載版",
+        "section": "Ⅵ 樹木点検票（総括表）"
+      }
+    ],
+    "issuer": "国土交通省（都市公園）",
+    "prefecture": "全国"
+  },
+  {
+    "id": "mlit-park-3",
+    "profile_id": "mlit-park",
+    "name": "Ⅶ 樹木診断カルテ（診断・総合判定／図版等）",
+    "stage_label": "外観・専門診断",
+    "scope": "national_reference",
+    "status": "editable_original",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "国の参考様式。外観・機器・総合判定の欄を混同しない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
+        "edition": "令和8年3月30日",
+        "pdf_pages": [
+          30,
+          31
+        ],
+        "printed_pages": [
+          29,
+          30
+        ],
+        "example_pdf_pages": []
+      },
+      {
+        "url": "https://www.mlit.go.jp/toshi/park/content/001414806.docx",
+        "edition": "令和8年3月30日掲載版",
+        "section": "Ⅶ 樹木診断カルテ（診断・総合判定／図版等）"
+      }
+    ],
+    "issuer": "国土交通省（都市公園）",
+    "prefecture": "全国"
+  },
+  {
+    "id": "kyoto-park-1",
+    "profile_id": "kyoto-city",
+    "name": "別紙2 公園樹木点検票（本票・状況写真）",
+    "stage_label": "巡視・点検",
+    "scope": "individual_contract",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "目視によるおおよその危険度。対応要否は監督職員との協議で決定する旨を票に明記。"
+    ],
+    "sources": [
+      {
+        "url": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf",
+        "edition": "令和8年度",
+        "pdf_pages": [
+          29,
+          30
+        ],
+        "printed_pages": null,
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "京都市",
+    "prefecture": "京都府"
+  },
+  {
+    "id": "ktr-1",
+    "profile_id": "tokyo-kokudo",
+    "name": "街路樹点検カルテ",
+    "stage_label": "巡視・点検",
+    "scope": "regional_national_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000851898.pdf",
+        "edition": "令和5年3月",
+        "pdf_pages": [
+          17
+        ],
+        "printed_pages": [
+          15
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "国交省 東京国道事務所",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "ktr-2",
+    "profile_id": "tokyo-kokudo",
+    "name": "点検カルテ 写真台帳",
+    "stage_label": "巡視・点検",
+    "scope": "regional_national_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000851898.pdf",
+        "edition": "令和5年3月",
+        "pdf_pages": [
+          18
+        ],
+        "printed_pages": [
+          16
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "国交省 東京国道事務所",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "ktr-3",
+    "profile_id": "tokyo-kokudo",
+    "name": "カルテ様式（健全度調査）",
+    "stage_label": "外観・専門診断",
+    "scope": "regional_national_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000851898.pdf",
+        "edition": "令和5年3月",
+        "pdf_pages": [
+          29
+        ],
+        "printed_pages": [
+          27
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "国交省 東京国道事務所",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "ktr-4",
+    "profile_id": "tokyo-kokudo",
+    "name": "カルテ様式（機器診断・貫入抵抗値調査）",
+    "stage_label": "機器・精密診断",
+    "scope": "regional_national_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000851898.pdf",
+        "edition": "令和5年3月",
+        "pdf_pages": [
+          30
+        ],
+        "printed_pages": [
+          28
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "国交省 東京国道事務所",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "ktr-5",
+    "profile_id": "tokyo-kokudo",
+    "name": "カルテ様式（根系調査）",
+    "stage_label": "根系・植栽環境",
+    "scope": "regional_national_manual",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [],
+    "sources": [
+      {
+        "url": "https://www.ktr.mlit.go.jp/ktr_content/content/000851898.pdf",
+        "edition": "令和5年3月",
+        "pdf_pages": [
+          31
+        ],
+        "printed_pages": [
+          29
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "国交省 東京国道事務所",
+    "prefecture": "東京都"
+  },
+  {
+    "id": "nilim-1",
+    "profile_id": "nilim-1059",
+    "name": "通常巡回票",
+    "stage_label": "巡視・点検",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          80
+        ],
+        "printed_pages": [
+          "1-79"
+        ],
+        "example_pdf_pages": [
+          81
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-2",
+    "profile_id": "nilim-1059",
+    "name": "通常巡回写真票",
+    "stage_label": "巡視・点検",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          82
+        ],
+        "printed_pages": [
+          "1-81"
+        ],
+        "example_pdf_pages": [
+          83
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-3",
+    "profile_id": "nilim-1059",
+    "name": "定期巡回票",
+    "stage_label": "巡視・点検",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          84
+        ],
+        "printed_pages": [
+          "1-83"
+        ],
+        "example_pdf_pages": [
+          85
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-4",
+    "profile_id": "nilim-1059",
+    "name": "定期巡回写真票",
+    "stage_label": "巡視・点検",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          86
+        ],
+        "printed_pages": [
+          "1-85"
+        ],
+        "example_pdf_pages": [
+          87
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-5",
+    "profile_id": "nilim-1059",
+    "name": "簡易診断カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          88
+        ],
+        "printed_pages": [
+          "1-87"
+        ],
+        "example_pdf_pages": [
+          89
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-6",
+    "profile_id": "nilim-1059",
+    "name": "街路樹診断カルテ（健全度調査）",
+    "stage_label": "外観・専門診断",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          90
+        ],
+        "printed_pages": [
+          "1-89"
+        ],
+        "example_pdf_pages": [
+          91
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-7",
+    "profile_id": "nilim-1059",
+    "name": "街路樹診断カルテ（植栽環境調査）",
+    "stage_label": "根系・植栽環境",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          92
+        ],
+        "printed_pages": [
+          "1-91"
+        ],
+        "example_pdf_pages": [
+          93
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-8",
+    "profile_id": "nilim-1059",
+    "name": "樹木腐朽割合調査票",
+    "stage_label": "機器・精密診断",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          94
+        ],
+        "printed_pages": [
+          "1-93"
+        ],
+        "example_pdf_pages": [
+          95
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-9",
+    "profile_id": "nilim-1059",
+    "name": "街路樹診断カルテ（腐朽診断・貫入抵抗値測定機）",
+    "stage_label": "機器・精密診断",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          96
+        ],
+        "printed_pages": [
+          "1-95"
+        ],
+        "example_pdf_pages": [
+          97
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-10",
+    "profile_id": "nilim-1059",
+    "name": "街路樹診断カルテ（根株・根系診断）",
+    "stage_label": "根系・植栽環境",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          98
+        ],
+        "printed_pages": [
+          "1-97"
+        ],
+        "example_pdf_pages": [
+          99
+        ]
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "nilim-11",
+    "profile_id": "nilim-1059",
+    "name": "街路樹カルテ総括表",
+    "stage_label": "集計・履歴",
+    "scope": "national_reference",
+    "status": "pdf_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
+        "edition": "平成31年2月",
+        "pdf_pages": [
+          100
+        ],
+        "printed_pages": [
+          "1-99"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "国土技術政策総合研究所",
+    "prefecture": "全国"
+  },
+  {
+    "id": "hist-sendai-1",
+    "profile_id": "sendai",
+    "name": "街路樹点検調査票",
+    "stage_label": "巡視・点検",
+    "scope": "historical_case",
+    "status": "historical_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          13
+        ],
+        "printed_pages": [
+          "2-12"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "仙台市",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": "hist-sendai-2",
+    "profile_id": "sendai",
+    "name": "資料－2 街路樹健全度調査カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "historical_case",
+    "status": "historical_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          13
+        ],
+        "printed_pages": [
+          "2-12"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "仙台市",
+    "prefecture": "宮城県"
+  },
+  {
+    "id": "hist-yokohama-1",
+    "profile_id": "yokohama",
+    "name": "初期診断調査表",
+    "stage_label": "巡視・点検",
+    "scope": "historical_case",
+    "status": "historical_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          37
+        ],
+        "printed_pages": [
+          "2-36"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "横浜市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": "hist-yokohama-2",
+    "profile_id": "yokohama",
+    "name": "様式2 街路樹診断カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "historical_case",
+    "status": "historical_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          37
+        ],
+        "printed_pages": [
+          "2-36"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "横浜市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": "hist-yokohama-3",
+    "profile_id": "yokohama",
+    "name": "様式3 腐朽診断カルテ（レジストグラフ）",
+    "stage_label": "機器・精密診断",
+    "scope": "historical_case",
+    "status": "historical_form",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          37
+        ],
+        "printed_pages": [
+          "2-36"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "横浜市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "id": "hist-kyoto-1",
+    "profile_id": "kyoto-city",
+    "name": "樹木診断調査表（表）・ケヤキ樹勢診断",
+    "stage_label": "外観・専門診断",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          58
+        ],
+        "printed_pages": [
+          "2-57"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "京都市",
+    "prefecture": "京都府"
+  },
+  {
+    "id": "hist-kyoto-2",
+    "profile_id": "kyoto-city",
+    "name": "腐朽診断カルテ（レジストグラフ）",
+    "stage_label": "機器・精密診断",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          58
+        ],
+        "printed_pages": [
+          "2-57"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "京都市",
+    "prefecture": "京都府"
+  },
+  {
+    "id": "hist-suita-1",
+    "profile_id": "suita",
+    "name": "予備診断カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          67
+        ],
+        "printed_pages": [
+          "2-66"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "吹田市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "hist-suita-2",
+    "profile_id": "suita",
+    "name": "樹木診断カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          67
+        ],
+        "printed_pages": [
+          "2-66"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "吹田市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "hist-suita-3",
+    "profile_id": "suita",
+    "name": "精密診断カルテ（貫入抵抗値調査票）",
+    "stage_label": "機器・精密診断",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          67
+        ],
+        "printed_pages": [
+          "2-66"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "吹田市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "hist-suita-4",
+    "profile_id": "suita",
+    "name": "外観診断カルテ（植栽環境調査）",
+    "stage_label": "根系・植栽環境",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          67
+        ],
+        "printed_pages": [
+          "2-66"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "吹田市",
+    "prefecture": "大阪府"
+  },
+  {
+    "id": "hist-fukuoka-1",
+    "profile_id": "fukuoka-city",
+    "name": "様式1-1 樹木診断カルテ",
+    "stage_label": "外観・専門診断",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          84
+        ],
+        "printed_pages": [
+          "2-83"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "福岡市",
+    "prefecture": "福岡県"
+  },
+  {
+    "id": "hist-fukuoka-2",
+    "profile_id": "fukuoka-city",
+    "name": "様式1-2 精密調査カルテ",
+    "stage_label": "機器・精密診断",
+    "scope": "historical_case",
+    "status": "historical_example",
+    "verified_at": "2026-11-13",
+    "limitations": [
+      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。",
+      "使用機器欄にピカスの選択肢。掲載された記入例はレジストグラフ測定で、PiCUS専用帳票・Excel配布の証拠ではない。"
+    ],
+    "sources": [
+      {
+        "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
+        "edition": "平成31年2月刊／自治体事例は平成29年2月時点",
+        "pdf_pages": [
+          84
+        ],
+        "printed_pages": [
+          "2-83"
+        ],
+        "example_pdf_pages": []
+      }
+    ],
+    "issuer": "福岡市",
+    "prefecture": "福岡県"
+  }
+]

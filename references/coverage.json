@@ -1,0 +1,508 @@
+[
+  {
+    "prefecture": "北海道",
+    "status": "判定確認",
+    "gap": "段階・条件付きで原典を参照",
+    "short_name": "北海道",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "sapporo",
+      "hokkaido"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "具体的な判定表の内容を過去調査で確認。全項目の機械化検証は未完了"
+  },
+  {
+    "prefecture": "青森県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "青森",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "岩手県",
+    "status": "関連確認",
+    "gap": "県営運動公園の個別仕様 表なし",
+    "short_name": "岩手",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "宮城県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "宮城",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "sendai"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "秋田県",
+    "status": "関連確認",
+    "gap": "県立公園の国指針参照条項",
+    "short_name": "秋田",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "山形県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "山形",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "福島県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "福島",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "iwaki"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "茨城県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "茨城",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "hitachi"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "栃木県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "栃木",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "群馬県",
+    "status": "存在確認",
+    "gap": "本文・版・判定表の追加確認が必要",
+    "short_name": "群馬",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "maebashi"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "文書名やリンクを確認。本文・適用条件の確認不足"
+  },
+  {
+    "prefecture": "埼玉県",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "埼玉",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "千葉県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "千葉",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "kashiwa"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "東京都",
+    "status": "判定確認",
+    "gap": "段階・条件付きで原典を参照",
+    "short_name": "東京",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "tokyo"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "具体的な判定表の内容を過去調査で確認。全項目の機械化検証は未完了"
+  },
+  {
+    "prefecture": "神奈川県",
+    "status": "判定確認",
+    "gap": "段階・条件付きで原典を参照",
+    "short_name": "神奈川",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "yokohama",
+      "kanagawa"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "具体的な判定表の内容を過去調査で確認。全項目の機械化検証は未完了"
+  },
+  {
+    "prefecture": "新潟県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "新潟",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "富山県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "富山",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "石川県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "石川",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "kanazawa"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "福井県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "福井",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "山梨県",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "山梨",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "長野県",
+    "status": "存在確認",
+    "gap": "本文・版・判定表の追加確認が必要",
+    "short_name": "長野",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "文書名やリンクを確認。本文・適用条件の確認不足"
+  },
+  {
+    "prefecture": "岐阜県",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "岐阜",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "静岡県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "静岡",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "hamamatsu"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "愛知県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "愛知",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "nagoya"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "三重県",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "三重",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "滋賀県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "滋賀",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "京都府",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "京都",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "kyoto-city"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "大阪府",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "大阪",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "osaka-city"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "兵庫県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "兵庫",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "kobe"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "奈良県",
+    "status": "存在確認",
+    "gap": "県の委託実績あり 仕様未取得",
+    "short_name": "奈良",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "文書名やリンクを確認。本文・適用条件の確認不足"
+  },
+  {
+    "prefecture": "和歌山県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "和歌山",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "鳥取県",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "鳥取",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "島根県",
+    "status": "存在確認",
+    "gap": "本文・版・判定表の追加確認が必要",
+    "short_name": "島根",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "文書名やリンクを確認。本文・適用条件の確認不足"
+  },
+  {
+    "prefecture": "岡山県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "岡山",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "広島県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "広島",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "hiroshima"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "山口県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "山口",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "徳島県",
+    "status": "関連確認",
+    "gap": "県公園の点検手順 表なし",
+    "short_name": "徳島",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "香川県",
+    "status": "存在確認",
+    "gap": "本文・版・判定表の追加確認が必要",
+    "short_name": "香川",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "takamatsu"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "文書名やリンクを確認。本文・適用条件の確認不足"
+  },
+  {
+    "prefecture": "愛媛県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "愛媛",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "高知県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "高知",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "福岡県",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "福岡",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "佐賀県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "佐賀",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "長崎県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "長崎",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "熊本県",
+    "status": "判定確認",
+    "gap": "段階・条件付きで原典を参照",
+    "short_name": "熊本",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [
+      "kumamoto"
+    ],
+    "reference": "references/survey.md",
+    "status_definition": "具体的な判定表の内容を過去調査で確認。全項目の機械化検証は未完了"
+  },
+  {
+    "prefecture": "大分県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "大分",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "宮崎県",
+    "status": "関連確認",
+    "gap": "景観指針あり 診断表は未発見",
+    "short_name": "宮崎",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  },
+  {
+    "prefecture": "鹿児島県",
+    "status": "原典未発見",
+    "gap": "県の具体的判定表に未到達",
+    "short_name": "鹿児島",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "今回までの探索で県の具体的判定表に未到達。不在・非公開の証明ではない"
+  },
+  {
+    "prefecture": "沖縄県",
+    "status": "関連確認",
+    "gap": "具体的閾値または診断本文は未確認",
+    "short_name": "沖縄",
+    "scope": "県が発行する資料の探索状況。県内市町村資料の不存在を意味しない",
+    "card_ids": [],
+    "reference": "references/survey.md",
+    "status_definition": "管理方針・点検手順等を確認。詳細な判定閾値は未確認"
+  }
+]
