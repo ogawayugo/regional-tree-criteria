@@ -4,41 +4,18 @@
 
 対象：桜の名所づくり説明資料
 
-版：2024.9.20
-
-参照できる内容：A/B1/B2/Cの説明例
-
-出典位置：資料p15
-
-適用制限：全マニュアルではない。県I～IVとは別
+収録版：2024.9.20
 
 確認状態：過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。
 
-## 調査記録
+## 基準・適用条件と出典
 
+A/B1/B2/Cの判定方法の説明がある。この説明資料を市内全業務に適用するマニュアルとして扱わない。
 
+出典：[桜の名所づくりに関する委員会資料 — 資料p15「樹木診断による判定方法」](https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/jokyo/kukakuseiri/kamiseya/landparcel/totiriyoukenntou.files/0101_20240920.pdf)
 
-G 横浜市：2024年9月20日委員会資料
+## 利用時の確認
 
-[出典を開く](https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/jokyo/kukakuseiri/kamiseya/landparcel/totiriyoukenntou.files/0101_20240920.pdf)
+対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。
 
-資料p15『樹木診断による判定方法』にA/B1/B2/Cの説明例。目視・器具でカルテ作成→必要機器診断。全マニュアルではなく桜の名所づくり説明資料。県2026定期診断I〜IVとの混同防止用の出典。
-
-
-
-
-
-## 関連帳票（契約・版を区別）
-
-- 初期診断調査表（historical_case、historical_form）
-  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [37] / printed_pages: ['2-36'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)
-- 様式2 街路樹診断カルテ（historical_case、historical_form）
-  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [37] / printed_pages: ['2-36'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)
-- 様式3 腐朽診断カルテ（レジストグラフ）（historical_case、historical_form）
-  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [37] / printed_pages: ['2-36'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)
-
-
-## 原典URL
-
-- https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/jokyo/kukakuseiri/kamiseya/landparcel/totiriyoukenntou.files/0101_20240920.pdf
-- https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf
+出典の記載は個別契約への適用や最新版の保証ではない。帳票は[帳票台帳](../forms.json)の発行主体・版・位置を照合する。

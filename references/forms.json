@@ -501,9 +501,7 @@
     "scope": "individual_contract",
     "status": "pdf_example",
     "verified_at": "2026-10-20",
-    "limitations": [
-      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
@@ -525,9 +523,7 @@
     "scope": "individual_contract",
     "status": "pdf_example",
     "verified_at": "2026-10-20",
-    "limitations": [
-      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
@@ -549,9 +545,7 @@
     "scope": "individual_contract",
     "status": "pdf_example",
     "verified_at": "2026-10-20",
-    "limitations": [
-      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
@@ -573,9 +567,7 @@
     "scope": "individual_contract",
     "status": "pdf_form",
     "verified_at": "2026-10-20",
-    "limitations": [
-      "個別発注仕様。Excel成果品の指定と編集用xlsx原本の公開は別。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf",
@@ -731,9 +723,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
@@ -760,9 +750,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
@@ -789,9 +777,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
@@ -818,9 +804,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
@@ -847,9 +831,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
@@ -876,9 +858,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
@@ -905,9 +885,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公開配布Excel4シートには含まれない。PDFから作成した帳票は公式配布Excelと呼ばない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
@@ -934,9 +912,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公園施設全体を扱う票は樹木専用カルテと区別。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
@@ -963,9 +939,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公園施設全体を扱う票は樹木専用カルテと区別。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
@@ -990,9 +964,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公園樹用。街路樹用とは別の様式。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
@@ -1019,9 +991,7 @@
     "scope": "issuer_manual",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "公園樹用。街路樹用とは別の様式。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
@@ -1048,9 +1018,7 @@
     "scope": "national_reference",
     "status": "editable_original",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "定期点検用の参考様式。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
@@ -1080,9 +1048,7 @@
     "scope": "national_reference",
     "status": "editable_original",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "定期点検用の参考様式。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
@@ -1112,9 +1078,7 @@
     "scope": "national_reference",
     "status": "editable_original",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "国の参考様式。外観・機器・総合判定の欄を混同しない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
@@ -1146,9 +1110,7 @@
     "scope": "individual_contract",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "目視によるおおよその危険度。対応要否は監督職員との協議で決定する旨を票に明記。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf",
@@ -1297,9 +1259,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1326,9 +1286,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1355,9 +1313,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1384,9 +1340,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1413,9 +1367,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1442,9 +1394,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1471,9 +1421,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1500,9 +1448,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1529,9 +1475,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1558,9 +1502,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1587,9 +1529,7 @@
     "scope": "national_reference",
     "status": "pdf_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "用紙本体はPDF内。次ページの記入例とは区別。日本語文字層が崩れる箇所はOCR・画像を参照。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059018.pdf",
@@ -1614,9 +1554,7 @@
     "scope": "historical_case",
     "status": "historical_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1641,9 +1579,7 @@
     "scope": "historical_case",
     "status": "historical_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1668,9 +1604,7 @@
     "scope": "historical_case",
     "status": "historical_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1695,9 +1629,7 @@
     "scope": "historical_case",
     "status": "historical_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1722,9 +1654,7 @@
     "scope": "historical_case",
     "status": "historical_form",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1749,9 +1679,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1776,9 +1704,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1803,9 +1729,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1830,9 +1754,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1857,9 +1779,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1884,9 +1804,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1911,9 +1829,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",
@@ -1938,10 +1854,7 @@
     "scope": "historical_case",
     "status": "historical_example",
     "verified_at": "2026-11-13",
-    "limitations": [
-      "平成29年2月時点の自治体事例。現行指定の証拠にはしない。",
-      "使用機器欄にピカスの選択肢。掲載された記入例はレジストグラフ測定で、PiCUS専用帳票・Excel配布の証拠ではない。"
-    ],
+    "limitations": [],
     "sources": [
       {
         "url": "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf",

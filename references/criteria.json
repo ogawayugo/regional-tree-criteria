@@ -4,17 +4,26 @@
     "issuer": "札幌市",
     "prefecture": "北海道",
     "scope": "街路樹・個別委託",
-    "edition": "R8年度その6／その1",
-    "available": "1健全・2要観察・3危険",
-    "limitations": "対象路線・幼木除外条件を契約ごとに確認",
-    "locator": "その6：PDF4～7・11～12頁。その1の帳票は別契約",
+    "edition": "R8年度その6",
+    "available": "容姿と健全度を合わせて1・2・3の総合評価を行う。重要項目による判定条件があるため平均点だけで判断しない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "PDF4～7頁・11～12頁",
     "urls": [
-      "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1032_shiyousyo.pdf",
-      "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf"
+      "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1032_shiyousyo.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/sapporo.md",
-    "search_text": "札幌市 北海道 街路樹・個別委託 1健全・2要観察・3危険 対象路線・幼木除外条件を契約ごとに確認 その6：PDF4～7・11～12頁。その1の帳票は別契約 \n\nA 札幌市：令和8年度 街路樹診断仕様書\n\n[出典を開く](https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1032_shiyousyo.pdf)\n\n19枚。発注は札幌市建設局みどりの推進部。案件は街路樹診断業務その6、西区7路線464本。PDF4枚目が対象、5枚目容姿診断、6枚目健全度、7枚目総合評価、11〜12枚目記入例。\n\n容姿6項目、健全度14項目。容姿各1〜4で平均と重要項目の例外、健全度と合わせ総合1健全／2要観察／3危険。腐朽位置・著しい根株腐朽・根元揺らぎ等による危険への上書きあり。平均点だけで安全判定不可。2026年は幼木除外を植栽概ね1〜3年・添木付き樹高3.5m程度と記載。2025仕様の2.5mを流用しない。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 様式1 街路樹診断カルテ（記入例）（individual_contract、pdf_example）\n  - [令和8年度・街路樹診断業務（その1）個別仕様・pdf_pages: [11]](https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf)\n- 様式2 診断図・詳細写真（記入例）（individual_contract、pdf_example）\n  - [令和8年度・街路樹診断業務（その1）個別仕様・pdf_pages: [12]](https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf)\n- 様式3 総括表（記入例）（individual_contract、pdf_example）\n  - [令和8年度・街路樹診断業務（その1）個別仕様・pdf_pages: [13]](https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf)\n- 様式4 路線別・樹種別集計（individual_contract、pdf_form）\n  - [令和8年度・街路樹診断業務（その1）個別仕様・pdf_pages: [14, 15]](https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1027_shiyousyo.pdf)\n"
+    "search_text": "札幌市 北海道 街路樹・個別委託 容姿と健全度を合わせて1・2・3の総合評価を行う。重要項目による判定条件があるため平均点だけで判断しない。 PDF4～7頁・11～12頁",
+    "facts": [
+      {
+        "summary": "容姿と健全度を合わせて1・2・3の総合評価を行う。重要項目による判定条件があるため平均点だけで判断しない。",
+        "source": {
+          "title": "街路樹診断業務その6 個別仕様書",
+          "url": "https://www.city.sapporo.jp/ryokuka/nyuusatsu/keiyakujouhou/ippan-koubo/2026/2026_1027/documents/03_1032_shiyousyo.pdf",
+          "locator": "PDF4～7頁・11～12頁"
+        }
+      }
+    ]
   },
   {
     "id": "sendai",
@@ -22,33 +31,25 @@
     "prefecture": "宮城県",
     "scope": "定禅寺通ケヤキの報告",
     "edition": "2025資料・H29.9準拠",
-    "available": "A/B1/B2/B3/C",
-    "limitations": "B3の保存対象条件を保持。市全体への適用は別確認",
-    "locator": "資料p5（準拠文書）、p7（判定表）",
+    "available": "定禅寺通の報告にはA/B1/B2/B3/Cがある。B3は保存対象等の条件を伴うため、他の樹木に同じ区分を自動適用しない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "資料p5・p7",
     "urls": [
-      "https://www.city.sendai.jp/hyakunen-chose/documents/morishin98_shiryou2.pdf",
-      "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf"
+      "https://www.city.sendai.jp/hyakunen-chose/documents/morishin98_shiryou2.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/sendai.md",
-    "search_text": "仙台市 宮城県 定禅寺通ケヤキの報告 A/B1/B2/B3/C B3の保存対象条件を保持。市全体への適用は別確認 資料p5（準拠文書）、p7（判定表） \n\nB 仙台市：専門診断による健全度判定基準\n\n[出典を開く](https://www.city.sendai.jp/hyakunen-chose/documents/morishin98_shiryou2.pdf)\n\n令和7年1月17日・第98回審議会資料2、定禅寺通ケヤキ。p5に2017年9月『仙台市街路樹健全度調査マニュアル』準拠、p7に判定表。A／B1／B2／B3／C。B3は処置なしでは回復見込みが低い保存樹木等に用い、それ以外はC。B2/B3は毎年専門外観診断、Cは伐採・補植。東京のB2と同一意味ではない。定禅寺通の報告書である点を保持。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 街路樹点検調査票（historical_case、historical_form）\n  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [13] / printed_pages: ['2-12'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)\n- 資料－2 街路樹健全度調査カルテ（historical_case、historical_form）\n  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [13] / printed_pages: ['2-12'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)\n"
-  },
-  {
-    "id": "iwaki",
-    "issuer": "いわき市",
-    "prefecture": "福島県",
-    "scope": "街路樹管理計画",
-    "edition": "2025掲載",
-    "available": "管理方針・判定表未確認",
-    "limitations": "診断閾値として採用しない",
-    "locator": "判定表のページ未確認",
-    "urls": [
-      "https://www.city.iwaki.lg.jp/www/contents/1738819749153/index.html",
-      "https://www.city.iwaki.lg.jp/www/contents/1738819749153/files/honpen.pdf"
-    ],
-    "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
-    "file": "references/cards/iwaki.md",
-    "search_text": "いわき市 福島県 街路樹管理計画 管理方針・判定表未確認 診断閾値として採用しない 判定表のページ未確認 \n\nC いわき市：管理計画（判定表未確認）\n\n[出典を開く](https://www.city.iwaki.lg.jp/www/contents/1738819749153/index.html)\n\n[出典を開く](https://www.city.iwaki.lg.jp/www/contents/1738819749153/files/honpen.pdf)\n\n公式ページ更新2025-06-16、本文59枚。管理・整備の計画。本文初回取得後の再取得がタイムアウトし、特定診断判定表やページは確認できなかった。原典URL取得済だが、ルール実装用に採用しない。\n\n\n\n"
+    "search_text": "仙台市 宮城県 定禅寺通ケヤキの報告 定禅寺通の報告にはA/B1/B2/B3/Cがある。B3は保存対象等の条件を伴うため、他の樹木に同じ区分を自動適用しない。 資料p5・p7",
+    "facts": [
+      {
+        "summary": "定禅寺通の報告にはA/B1/B2/B3/Cがある。B3は保存対象等の条件を伴うため、他の樹木に同じ区分を自動適用しない。",
+        "source": {
+          "title": "第98回審議会 資料2 定禅寺通ケヤキ",
+          "url": "https://www.city.sendai.jp/hyakunen-chose/documents/morishin98_shiryou2.pdf",
+          "locator": "資料p5・p7"
+        }
+      }
+    ]
   },
   {
     "id": "hitachi",
@@ -56,15 +57,25 @@
     "prefecture": "茨城県",
     "scope": "平和通りの桜更新",
     "edition": "2024.7",
-    "available": "平和通りサクラの撤去優先条件・機器判定A/B1/B2/C・総合判定",
-    "limitations": "本文の40%超と表の40%以上が不一致。40%ちょうどの優先撤去適用は発注者確認。",
-    "locator": "本文p2～3、p10 表5、p11 図3、p12 表6／PDF4～5・12～14頁",
+    "available": "優先撤去条件の本文は腐朽率40%超、表5・図3・表6は40%以上をCとする。40%ちょうどの扱いは両記載を示し、優先撤去への適用を管理者に確認する。機器の区分だけで最終措置を決めない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "本文p2～3・p10～12／PDF4～5・12～14頁",
     "urls": [
       "https://www.city.hitachi.lg.jp/_res/projects/default_project/_page_/001/013/447/03.pdf"
     ],
     "verification": "2026-11-16 原典本文・表5/表6画像照合。個別契約適用は未確認。",
     "file": "references/cards/hitachi.md",
-    "search_text": "日立市 茨城県 平和通りの桜更新 平和通りサクラの撤去優先条件・機器判定A/B1/B2/C・総合判定 本文の40%超と表の40%以上が不一致。40%ちょうどの優先撤去適用は発注者確認。 本文p2～3、p10 表5、p11 図3、p12 表6／PDF4～5・12～14頁 \n\nD 日立市：平和通り桜更新実施計画第II期\n\n[出典を開く](https://www.city.hitachi.lg.jp/_res/projects/default_project/_page_/001/013/447/03.pdf)\n\n2024年7月。本文p2（PDF4枚目）早期優先撤去条件に外観不健全、機器腐朽率40%超、40%未満でも高腐朽力キノコ等を列挙。40%ちょうどは本文と後半の表で境界が異なる（下の訂正参照）。本文p3（PDF5枚目）は2024〜2048の計画と3〜5年ごとの診断。特定路線桜の更新条件で、茨城県共通の診断尺度ではない。\n\n\n\n## 原典照合による訂正（2026-11-16）\n\n同じ計画内に境界の表記差がある。本文p2（PDF4頁）の早期・優先撤去条件とp10（PDF12頁）の説明文は40%超。一方、p10 表5・p11 図3・p12 表6（PDF12～14頁）は40%以上をCとしている。\n\n表5の機器診断参考値は0%以上20%未満=A、20%以上30%未満=B1、30%以上40%未満=B2、40%以上=C。表6の総合判定は外観・機器・早急な処置・撤去後景観なども含むため、機器区分だけで最終措置を確定しない。\n\n40%ちょうどは「根拠がない」のではなく、本文の選定条件と表の境界が一致していない。Cと示す表の存在を説明し、優先撤去条件への適用は発注者に確認する。特定路線のサクラ計画であり市内全樹木へ拡張しない。\n"
+    "search_text": "日立市 茨城県 平和通りの桜更新 優先撤去条件の本文は腐朽率40%超、表5・図3・表6は40%以上をCとする。40%ちょうどの扱いは両記載を示し、優先撤去への適用を管理者に確認する。機器の区分だけで最終措置を決めない。 本文p2～3・p10～12／PDF4～5・12～14頁",
+    "facts": [
+      {
+        "summary": "優先撤去条件の本文は腐朽率40%超、表5・図3・表6は40%以上をCとする。40%ちょうどの扱いは両記載を示し、優先撤去への適用を管理者に確認する。機器の区分だけで最終措置を決めない。",
+        "source": {
+          "title": "平和通り桜更新実施計画 第II期",
+          "url": "https://www.city.hitachi.lg.jp/_res/projects/default_project/_page_/001/013/447/03.pdf",
+          "locator": "本文p2～3・p10～12／PDF4～5・12～14頁"
+        }
+      }
+    ]
   },
   {
     "id": "maebashi",
@@ -72,15 +83,25 @@
     "prefecture": "群馬県",
     "scope": "街路樹点検手順",
     "edition": "R8.1",
-    "available": "詳細・精密診断への移行",
-    "limitations": "独自の数値判定表は未確認",
+    "available": "点検から詳細・精密診断へ進む手順を参照できる。内部の判断が難しい場合の機器利用や専門家への依頼を扱う。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
     "locator": "本文4-6～4-11／PDF40～45頁",
     "urls": [
       "https://www.city.maebashi.gunma.jp/material/files/group/68/honnbun.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/maebashi.md",
-    "search_text": "前橋市 群馬県 街路樹点検手順 詳細・精密診断への移行 独自の数値判定表は未確認 本文4-6～4-11／PDF40～45頁 \n\nE 前橋市：街路樹ガイドライン 令和8年1月\n\n[出典を開く](https://www.city.maebashi.gunma.jp/material/files/group/68/honnbun.pdf)\n\n76枚、群馬県2019ガイドラインを基に市版へ変更。本文4-6〜4-11（PDF40〜45枚目）安全点検、欠陥・被害確認、詳細・精密診断。4-11では内部判断困難時に精密機器、詳細点検は専門家へ依頼。独自のA〜D等ランク閾値表としては今回確認できず、点検項目・手順資料として分類。\n\n\n\n"
+    "search_text": "前橋市 群馬県 街路樹点検手順 点検から詳細・精密診断へ進む手順を参照できる。内部の判断が難しい場合の機器利用や専門家への依頼を扱う。 本文4-6～4-11／PDF40～45頁",
+    "facts": [
+      {
+        "summary": "点検から詳細・精密診断へ進む手順を参照できる。内部の判断が難しい場合の機器利用や専門家への依頼を扱う。",
+        "source": {
+          "title": "街路樹ガイドライン",
+          "url": "https://www.city.maebashi.gunma.jp/material/files/group/68/honnbun.pdf",
+          "locator": "本文4-6～4-11／PDF40～45頁"
+        }
+      }
+    ]
   },
   {
     "id": "yokohama",
@@ -88,16 +109,25 @@
     "prefecture": "神奈川県",
     "scope": "桜の名所づくり説明資料",
     "edition": "2024.9.20",
-    "available": "A/B1/B2/Cの説明例",
-    "limitations": "全マニュアルではない。県I～IVとは別",
-    "locator": "資料p15",
+    "available": "A/B1/B2/Cの判定方法の説明がある。この説明資料を市内全業務に適用するマニュアルとして扱わない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "資料p15「樹木診断による判定方法」",
     "urls": [
-      "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/jokyo/kukakuseiri/kamiseya/landparcel/totiriyoukenntou.files/0101_20240920.pdf",
-      "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf"
+      "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/jokyo/kukakuseiri/kamiseya/landparcel/totiriyoukenntou.files/0101_20240920.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/yokohama.md",
-    "search_text": "横浜市 神奈川県 桜の名所づくり説明資料 A/B1/B2/Cの説明例 全マニュアルではない。県I～IVとは別 資料p15 \n\nG 横浜市：2024年9月20日委員会資料\n\n[出典を開く](https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/jokyo/kukakuseiri/kamiseya/landparcel/totiriyoukenntou.files/0101_20240920.pdf)\n\n資料p15『樹木診断による判定方法』にA/B1/B2/Cの説明例。目視・器具でカルテ作成→必要機器診断。全マニュアルではなく桜の名所づくり説明資料。県2026定期診断I〜IVとの混同防止用の出典。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 初期診断調査表（historical_case、historical_form）\n  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [37] / printed_pages: ['2-36'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)\n- 様式2 街路樹診断カルテ（historical_case、historical_form）\n  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [37] / printed_pages: ['2-36'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)\n- 様式3 腐朽診断カルテ（レジストグラフ）（historical_case、historical_form）\n  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [37] / printed_pages: ['2-36'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)\n"
+    "search_text": "横浜市 神奈川県 桜の名所づくり説明資料 A/B1/B2/Cの判定方法の説明がある。この説明資料を市内全業務に適用するマニュアルとして扱わない。 資料p15「樹木診断による判定方法」",
+    "facts": [
+      {
+        "summary": "A/B1/B2/Cの判定方法の説明がある。この説明資料を市内全業務に適用するマニュアルとして扱わない。",
+        "source": {
+          "title": "桜の名所づくりに関する委員会資料",
+          "url": "https://www.city.yokohama.lg.jp/kurashi/machizukuri-kankyo/toshiseibi/jokyo/kukakuseiri/kamiseya/landparcel/totiriyoukenntou.files/0101_20240920.pdf",
+          "locator": "資料p15「樹木診断による判定方法」"
+        }
+      }
+    ]
   },
   {
     "id": "kanazawa",
@@ -105,35 +135,51 @@
     "prefecture": "石川県",
     "scope": "公園・街路樹・公共施設緑地の市発注仕様",
     "edition": "R8年度",
-    "available": "A/B/C/D・部位別処置基準",
-    "limitations": "周囲長比と面積率を区別。現行使用帳票を確認",
-    "locator": "PDF18～19頁の添付表・図、公園編p8・街路樹編p13",
+    "available": "市発注の緑地管理業務でA/B/C/Dを用い、Dは報告対象となる。部位別の判定表と総合判定の図を合わせて読む。周囲長比と断面積比を混同しない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "公園編p8・街路樹編p13、PDF18～19頁",
     "urls": [
-      "https://www4.city.kanazawa.lg.jp/soshikikarasagasu/midoritohananoka/gyomugaiyo/7825.html",
-      "https://www4.city.kanazawa.lg.jp/material/files/group/72/R8kyoutuusiyousyo.pdf",
-      "https://www4.city.kanazawa.lg.jp/material/files/group/72/R8yousiki9_11_zyumokutenken.xlsx"
+      "https://www4.city.kanazawa.lg.jp/material/files/group/72/R8kyoutuusiyousyo.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/kanazawa.md",
-    "search_text": "金沢市 石川県 公園・街路樹・公共施設緑地の市発注仕様 A/B/C/D・部位別処置基準 周囲長比と面積率を区別。現行使用帳票を確認 PDF18～19頁の添付表・図、公園編p8・街路樹編p13 \n\nI 金沢市：令和8年度 共通仕様書・判定基準【有力追加】\n\n現行配布元：[出典を開く](https://www4.city.kanazawa.lg.jp/soshikikarasagasu/midoritohananoka/gyomugaiyo/7825.html)\n\n現行PDF：[出典を開く](https://www4.city.kanazawa.lg.jp/material/files/group/72/R8kyoutuusiyousyo.pdf)\n\n様式Excel：[出典を開く](https://www4.city.kanazawa.lg.jp/material/files/group/72/R8yousiki9_11_zyumokutenken.xlsx)\n\n旧検索URLのgroup44版は404。配布元から現行リンクを取得し、PDF18〜19枚目の表・図を画像確認済。共通仕様書は市の公園・街路樹・公共施設緑地業務向け。公園編p8、街路樹編p13『6樹木点検工』がA健全／B健全に近い／C要注意／D危険木を指定し、Dは即報告。\n\n添付表はC処置対象／D伐採対象の部位別基準、最終図で各項目の最悪判定を総合に採用。空洞等は周囲長比率1/3、枝枯れは3〜5割程度と5割以上等を用いる。面積腐朽率と混同不可。図には複数断面の総和評価など独自説明があるので、単一断面数値へ短縮不可。Excel内部で『（不要）様式-9街路』があるため、配布担当の現行運用を確認して帳票採用する。\n\n\n\n"
+    "search_text": "金沢市 石川県 公園・街路樹・公共施設緑地の市発注仕様 市発注の緑地管理業務でA/B/C/Dを用い、Dは報告対象となる。部位別の判定表と総合判定の図を合わせて読む。周囲長比と断面積比を混同しない。 公園編p8・街路樹編p13、PDF18～19頁",
+    "facts": [
+      {
+        "summary": "市発注の緑地管理業務でA/B/C/Dを用い、Dは報告対象となる。部位別の判定表と総合判定の図を合わせて読む。周囲長比と断面積比を混同しない。",
+        "source": {
+          "title": "令和8年度 共通仕様書",
+          "url": "https://www4.city.kanazawa.lg.jp/material/files/group/72/R8kyoutuusiyousyo.pdf",
+          "locator": "公園編p8・街路樹編p13、PDF18～19頁"
+        }
+      }
+    ]
   },
   {
     "id": "hamamatsu",
     "issuer": "浜松市",
     "prefecture": "静岡県",
-    "scope": "街路樹定期巡回／点検診断",
-    "edition": "巡回要領／R8.1ガイドライン",
-    "available": "巡回の1～5、簡易診断票",
-    "limitations": "異なる文書と工程を合成しない",
-    "locator": "巡回要領：本文p6～9／PDF10頁以降。別ガイドライン：PDF21～22頁",
+    "scope": "街路樹定期巡回",
+    "edition": "定期巡回要領（制定年月は本カードでは記載しない）",
+    "available": "定期巡回では1～5を用いる。3～5は写真付き詳細資料、5は速やかな委託者報告を伴う。別の点検診断ガイドラインの工程と混ぜない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "本文p6～9／PDF10～13頁",
     "urls": [
-      "https://www.city.hamamatsu.shizuoka.jp/dourohozen/gairojyu/youryo.html",
-      "https://www.city.hamamatsu.shizuoka.jp/documents/172815/teikijyunkaiyouryou.pdf",
-      "https://www.city.hamamatsu.shizuoka.jp/documents/172743/gairojyutennkennshinndanngaidorain.pdf"
+      "https://www.city.hamamatsu.shizuoka.jp/documents/172815/teikijyunkaiyouryou.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/hamamatsu.md",
-    "search_text": "浜松市 静岡県 街路樹定期巡回／点検診断 巡回の1～5、簡易診断票 異なる文書と工程を合成しない 巡回要領：本文p6～9／PDF10頁以降。別ガイドライン：PDF21～22頁 \n\nJ 浜松市：街路樹定期巡回要領\n\n[出典を開く](https://www.city.hamamatsu.shizuoka.jp/dourohozen/gairojyu/youryo.html)\n\n[出典を開く](https://www.city.hamamatsu.shizuoka.jp/documents/172815/teikijyunkaiyouryou.pdf)\n\n配布ページ更新2026-03-12。本文p6（PDF10枚目）5段階判定、p7詳細資料作成、p8〜9記入例、巻末様式。市管理街路樹の定期巡回。1概ね良好／2経過観察／3詳細調査／4伐採／5倒伏危険度高の伐採。5は速やかに委託者報告、3〜5は写真付詳細資料。根上りなど補足項目は倒伏診断①〜⑦と別扱い。診断コードと指摘項目を混ぜない。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 様式1 通常巡回票（issuer_manual、pdf_form）\n  - [令和8年1月（原本表紙確認）・pdf_pages: [21]](https://www.city.hamamatsu.shizuoka.jp/documents/172743/gairojyutennkennshinndanngaidorain.pdf)\n- 様式2 簡易診断カルテ（issuer_manual、pdf_form）\n  - [令和8年1月（原本表紙確認）・pdf_pages: [22]](https://www.city.hamamatsu.shizuoka.jp/documents/172743/gairojyutennkennshinndanngaidorain.pdf)\n"
+    "search_text": "浜松市 静岡県 街路樹定期巡回 定期巡回では1～5を用いる。3～5は写真付き詳細資料、5は速やかな委託者報告を伴う。別の点検診断ガイドラインの工程と混ぜない。 本文p6～9／PDF10～13頁",
+    "facts": [
+      {
+        "summary": "定期巡回では1～5を用いる。3～5は写真付き詳細資料、5は速やかな委託者報告を伴う。別の点検診断ガイドラインの工程と混ぜない。",
+        "source": {
+          "title": "街路樹定期巡回要領",
+          "url": "https://www.city.hamamatsu.shizuoka.jp/documents/172815/teikijyunkaiyouryou.pdf",
+          "locator": "本文p6～9／PDF10～13頁"
+        }
+      }
+    ]
   },
   {
     "id": "nagoya",
@@ -141,21 +187,25 @@
     "prefecture": "愛知県",
     "scope": "街路樹巡視・点検",
     "edition": "R8.1",
-    "available": "点検手順・様式1～6",
-    "limitations": "別冊の詳細診断マニュアル未取得",
-    "locator": "本文p4・19・22、様式PDF31～37頁",
+    "available": "巡視・点検の様式を参照できる。様式6は路線の本数等を記録する表であり、個木の詳細診断の数値基準として扱わない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "様式1～6／PDF31～37頁",
     "urls": [
-      "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=31",
-      "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=32",
-      "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=33",
-      "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=34",
-      "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=35",
-      "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=37",
       "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/nagoya.md",
-    "search_text": "名古屋市 愛知県 街路樹巡視・点検 点検手順・様式1～6 別冊の詳細診断マニュアル未取得 本文p4・19・22、様式PDF31～37頁 \n\n資料版：令和8年1月。発行主体の要領。\n\n| ID | 様式・用途 | 入手状態 | 原典・位置 |\n|---|---|---|---|\n| `nagoya-1` | 様式1 道路パトロール日報<br>巡視・点検 | PDFに様式あり | [PDF 31頁](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=31) |\n| `nagoya-2` | 様式2 日常点検・日常巡視結果報告書<br>巡視・点検 | PDFに様式あり | [PDF 32頁](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=32) |\n| `nagoya-3` | 様式3 日常巡視報告書<br>巡視・点検 | PDFに様式あり | [PDF 33頁](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=33) |\n| `nagoya-4` | 様式4 道路巡視員業務実施報告書<br>巡視・点検 | PDFに様式あり | [PDF 34頁](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=34) |\n| `nagoya-5` | 様式5 道路巡視員日報<br>巡視・点検 | PDFに様式あり | [PDF 35,36頁](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=35) |\n| `nagoya-6` | 様式6 街路樹定期点検報告用シート<br>巡視・点検 | PDFに様式あり | [PDF 37頁](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf#page=37) |\n\n- 名古屋市：R8.1点検手引・巡視様式は取得。「樹木診断マニュアル」と危険度詳細診断カルテの公開先は未発見。点検様式6は原本PDF 37ページで確認。\n- 様式6の35行、○/△/×本数、診断必要本数・処置必要本数をPDF37ページで目視確認。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 様式1 道路パトロール日報（issuer_manual、pdf_form）\n  - [令和8年1月・pdf_pages: [31]](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf)\n- 様式2 日常点検・日常巡視結果報告書（issuer_manual、pdf_form）\n  - [令和8年1月・pdf_pages: [32]](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf)\n- 様式3 日常巡視報告書（issuer_manual、pdf_form）\n  - [令和8年1月・pdf_pages: [33]](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf)\n- 様式4 道路巡視員業務実施報告書（issuer_manual、pdf_form）\n  - [令和8年1月・pdf_pages: [34]](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf)\n- 様式5 道路巡視員日報（issuer_manual、pdf_form）\n  - [令和8年1月・pdf_pages: [35, 36]](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf)\n- 様式6 街路樹定期点検報告用シート（issuer_manual、pdf_form）\n  - [令和8年1月・pdf_pages: [37]](https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf)\n"
+    "search_text": "名古屋市 愛知県 街路樹巡視・点検 巡視・点検の様式を参照できる。様式6は路線の本数等を記録する表であり、個木の詳細診断の数値基準として扱わない。 様式1～6／PDF31～37頁",
+    "facts": [
+      {
+        "summary": "巡視・点検の様式を参照できる。様式6は路線の本数等を記録する表であり、個木の詳細診断の数値基準として扱わない。",
+        "source": {
+          "title": "街路樹の巡視・点検に関する手引き",
+          "url": "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/014/886/tenkentebiki.pdf",
+          "locator": "様式1～6／PDF31～37頁"
+        }
+      }
+    ]
   },
   {
     "id": "kyoto-city",
@@ -163,18 +213,25 @@
     "prefecture": "京都府",
     "scope": "公園・個別発注",
     "edition": "R8年度",
-    "available": "公園樹木点検票・写真票",
-    "limitations": "市共通の診断基準とは未確定。街路樹の過去事例と分離",
-    "locator": "R8個別仕様のPDF29～30頁",
+    "available": "公園樹木点検票と写真票を参照できる。個別発注の添付資料であり、市全体への一律適用はこのカードから確定しない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "別紙2／PDF29～30頁",
     "urls": [
-      "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf#page=29",
-      "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf#page=58",
-      "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf",
-      "https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf"
+      "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/kyoto-city.md",
-    "search_text": "京都市 京都府 公園・個別発注 公園樹木点検票・写真票 市共通の診断基準とは未確定。街路樹の過去事例と分離 R8個別仕様のPDF29～30頁 \n\n資料版：令和8年度の個別発注添付。個別発注。\n\n| ID | 様式・用途 | 入手状態 | 原典・位置 |\n|---|---|---|---|\n| `kyoto-park-1` | 別紙2 公園樹木点検票（本票・状況写真）<br>巡視・点検 | PDFに様式あり | [PDF 29,30頁](https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf#page=29) |\n| `hist-kyoto-1` | 樹木診断調査表（表）・ケヤキ樹勢診断<br>外観・専門診断 | 過去事例の記入例（2017年時点） | [PDF 58頁](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf#page=58) |\n| `hist-kyoto-2` | 腐朽診断カルテ（レジストグラフ）<br>機器・精密診断 | 過去事例の記入例（2017年時点） | [PDF 58頁](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf#page=58) |\n\n- 公開PDF添付を確認。編集用原本や市全業務への一律適用は未確認。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 別紙2 公園樹木点検票（本票・状況写真）（individual_contract、pdf_form）\n  - [令和8年度・pdf_pages: [29, 30] / example_pdf_pages: []](https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf)\n- 樹木診断調査表（表）・ケヤキ樹勢診断（historical_case、historical_example）\n  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [58] / printed_pages: ['2-57'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)\n- 腐朽診断カルテ（レジストグラフ）（historical_case、historical_example）\n  - [平成31年2月刊／自治体事例は平成29年2月時点・pdf_pages: [58] / printed_pages: ['2-57'] / example_pdf_pages: []](https://www.nilim.go.jp/lab/bcg/siryou/tnn/tnn1059pdf/Ks1059013.pdf)\n"
+    "search_text": "京都市 京都府 公園・個別発注 公園樹木点検票と写真票を参照できる。個別発注の添付資料であり、市全体への一律適用はこのカードから確定しない。 別紙2／PDF29～30頁",
+    "facts": [
+      {
+        "summary": "公園樹木点検票と写真票を参照できる。個別発注の添付資料であり、市全体への一律適用はこのカードから確定しない。",
+        "source": {
+          "title": "令和8年度 個別発注添付資料",
+          "url": "https://www2.nyusatsu.city.kyoto.lg.jp/keiyaku/ebid/kouji/2026/000623_07_10231139.pdf",
+          "locator": "別紙2／PDF29～30頁"
+        }
+      }
+    ]
   },
   {
     "id": "osaka-city",
@@ -182,26 +239,50 @@
     "prefecture": "大阪府",
     "scope": "大阪市樹木管理者の街路樹・公園樹。大阪港湾局所管の街路樹・臨港緑地等を除く",
     "edition": "R8.3／R8年度適用",
-    "available": "樹木点検：A/B/要診断木/D2。樹木医診断の総合判定：A/B/C/D1/D2。フォローアップ：B/要診断木/D2",
-    "limitations": "樹木医診断は要診断木となった高木が対象。段階を混同しない。表6-1のD2名称と本文6.5に表記差あり。",
-    "locator": "前半PDF4頁＝紙面p1 適用範囲、PDF35頁＝p32 表4-22。後半PDF1頁＝p33 対象、PDF13～14頁＝p45～46 表5-10～12、PDF15～16頁＝p47～48 フォローアップ",
+    "available": "対象は大阪市樹木管理者の街路樹・公園樹。大阪港湾局所管の街路樹・臨港緑地等は除外される。 樹木点検はA/B/要診断木/D2の区分を用いる。 樹木医診断は要診断木となった高木が対象。総合判定はA/B/C/D1/D2で、点検段階とは区分が異なる。 フォローアップはB/要診断木/D2。表6-1のD2の名称は危険木、同頁6.5の本文は枯死となっており、表記を独断で統一しない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "紙面p1／PDF4頁／紙面p32 表4-22／PDF35頁／紙面p33・p46 表5-12／PDF1・14頁／紙面p48 表6-1・6.5／PDF16頁",
     "urls": [
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=18",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=22",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=26",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=27",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=31",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=19",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=21",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=24",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=29",
-      "https://www.city.osaka.lg.jp/kensetsu/page/0000673477.html",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
-      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/01_tenken1.pdf"
+      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/01_tenken1.pdf",
+      "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf"
     ],
     "verification": "2026-11-16 原典本文と適用範囲・表4-22/5-12/6-1の画像を照合。個別契約適用と全表は未検証。",
     "file": "references/cards/osaka-city.md",
-    "search_text": "大阪市 大阪府 大阪市樹木管理者の街路樹・公園樹。大阪港湾局所管の街路樹・臨港緑地等を除く 樹木点検：A/B/要診断木/D2。樹木医診断の総合判定：A/B/C/D1/D2。フォローアップ：B/要診断木/D2 樹木医診断は要診断木となった高木が対象。段階を混同しない。表6-1のD2名称と本文6.5に表記差あり。 前半PDF4頁＝紙面p1 適用範囲、PDF35頁＝p32 表4-22。後半PDF1頁＝p33 対象、PDF13～14頁＝p45～46 表5-10～12、PDF15～16頁＝p47～48 フォローアップ \n\n資料版：令和8年3月。発行主体の要領。\n\n| ID | 様式・用途 | 入手状態 | 原典・位置 |\n|---|---|---|---|\n| `osaka-city-1` | 参考資料1 巡視点検カルテ<br>巡視・点検 | PDFに様式あり | [PDF 18頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=18) |\n| `osaka-city-2` | 参考資料4 街路樹点検・フォローアップ個表<br>巡視・点検 | PDFに様式あり | [PDF 22,23頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=22) |\n| `osaka-city-3` | 参考資料6 総括表<br>巡視・点検 | PDFに様式あり | [PDF 26頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=26) |\n| `osaka-city-4` | 参考資料7 樹木医診断カルテ（街路樹）<br>外観・専門診断 | PDFに様式あり | [PDF 27,28頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=27) |\n| `osaka-city-5` | 参考資料9 機器診断カルテ（票内表題：精密診断カルテ・貫入抵抗値調査票）<br>機器・精密診断 | PDFに様式あり | [PDF 31頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=31) |\n| `osaka-city-6` | 参考資料2 公園日常巡視点検カード（様式2）<br>巡視・点検 | PDFに様式あり | [PDF 19,20頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=19) |\n| `osaka-city-7` | 参考資料3 公園施設定期点検表（様式3）<br>巡視・点検 | PDFに様式あり | [PDF 21頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=21) |\n| `osaka-city-8` | 参考資料5 樹木点検・フォローアップ点検表（個表）【公園樹】<br>巡視・点検 | PDFに様式あり | [PDF 24,25頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=24) |\n| `osaka-city-9` | 参考資料8 樹木医診断カルテ【公園樹】<br>外観・専門診断 | PDFに様式あり | [PDF 29,30頁](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=29) |\n\n- 公式Excel原本は未発見。PDF内の様式とOCRを保存。OCRの文字誤認は修正していない。\n- 街路樹と公園樹の様式が別。樹木医診断の総合判定はA/B/C/D1/D2。\n\n総合区分の名称（紙面p46 表5-12の抽出本文で確認）：A 健全、B 健全に近い、C 要注意木、D1 危険木、D2 枯死。表の全条件・列対応の画像照合は未完了。\n\n\n\n公式配布入口 https://www.city.osaka.lg.jp/kensetsu/page/0000673477.html を再確認。2026年度適用開始。入口→第5章以降PDF→参考文献→街路樹・都市樹木診断協会→診断調査手順を追跡し保存。\n\nPDF: https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf\n\n紙面45～46頁、表5-10～12。機器の腐朽割合は参考値で、健全材厚や子実体等を加味した専門判断が必要。総合A/B/C/D1/D2を区別。D1は危険木、D2は枯死。表の抽出テキストは列順が混ざるため、この調査では自動分岐へ変換しない。使用前に原表画像を照合する。50%だけで伐採を確定しない。\n\n紙面47頁のフォローアップ対象には、C及び存置するD1が含まれる。危険木ラベルと実際の処置を別データとして保持する必要がある。\n\n\n\n\n\n## 原典照合による訂正（2026-11-16）\n\n資料名は「樹木点検マニュアル」（令和8年3月、大阪市建設局）。紙面p1の適用対象は本市樹木管理者が管理する街路樹・公園樹で、大阪港湾局所管の街路樹及び臨港緑地等を除く。\n\n|段階|区分|出典|\n|---|---|---|\n|樹木点検|A健全／B健全に近い／要診断木／D2枯死|前半PDF35頁・紙面p32 表4-22|\n|樹木医診断（健全度判定）の総合判定|A健全／B健全に近い／C要注意木／D1危険木／D2枯死|後半PDF14頁・紙面p46 表5-12|\n|フォローアップ点検|B健全に近い／要診断木／D2|後半PDF16頁・紙面p48 表6-1|\n\n樹木医診断は、点検・フォローアップで要診断木となった高木が対象（後半PDF1頁・紙面p33）。フォローアップ表6-1のD2欄は「危険木」、同頁6.5の本文は「D2（枯死）」と表記される。樹勢4という条件と表記差を保持し、独断で名称を統一しない。\n\n\n## 関連帳票（契約・版を区別）\n\n- 参考資料1 巡視点検カルテ（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [18]](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 樹木点検・フォローアップ点検表（個表）【街路樹】（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [22, 23]](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 樹木点検・フォローアップ点検表（総括表）（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [26]](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 参考資料7 樹木医診断カルテ（街路樹）（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [27, 28]](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 参考資料9 機器診断カルテ（票内表題：精密診断カルテ・貫入抵抗値調査票）（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [31]](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 参考資料2 公園日常巡視点検カード（様式2）（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [19, 20] / printed_pages: [51, 52] / example_pdf_pages: []](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 参考資料3 公園施設定期点検表（様式3）（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [21] / printed_pages: [53] / example_pdf_pages: []](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 参考資料5 樹木点検・フォローアップ点検表（個表）【公園樹】（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [24, 25] / printed_pages: [56, 57] / example_pdf_pages: []](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n- 参考資料8 樹木医診断カルテ【公園樹】（issuer_manual、pdf_form）\n  - [令和8年3月・pdf_pages: [29, 30] / printed_pages: [61, 62] / example_pdf_pages: []](https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf)\n"
+    "search_text": "大阪市 大阪府 大阪市樹木管理者の街路樹・公園樹。大阪港湾局所管の街路樹・臨港緑地等を除く 対象は大阪市樹木管理者の街路樹・公園樹。大阪港湾局所管の街路樹・臨港緑地等は除外される。 樹木点検はA/B/要診断木/D2の区分を用いる。 樹木医診断は要診断木となった高木が対象。総合判定はA/B/C/D1/D2で、点検段階とは区分が異なる。 フォローアップはB/要診断木/D2。表6-1のD2の名称は危険木、同頁6.5の本文は枯死となっており、表記を独断で統一しない。 紙面p1／PDF4頁／紙面p32 表4-22／PDF35頁／紙面p33・p46 表5-12／PDF1・14頁／紙面p48 表6-1・6.5／PDF16頁",
+    "facts": [
+      {
+        "summary": "対象は大阪市樹木管理者の街路樹・公園樹。大阪港湾局所管の街路樹・臨港緑地等は除外される。",
+        "source": {
+          "title": "樹木点検マニュアル 前半",
+          "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/01_tenken1.pdf",
+          "locator": "紙面p1／PDF4頁"
+        }
+      },
+      {
+        "summary": "樹木点検はA/B/要診断木/D2の区分を用いる。",
+        "source": {
+          "title": "樹木点検マニュアル 前半",
+          "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/01_tenken1.pdf",
+          "locator": "紙面p32 表4-22／PDF35頁"
+        }
+      },
+      {
+        "summary": "樹木医診断は要診断木となった高木が対象。総合判定はA/B/C/D1/D2で、点検段階とは区分が異なる。",
+        "source": {
+          "title": "樹木点検マニュアル 後半",
+          "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+          "locator": "紙面p33・p46 表5-12／PDF1・14頁"
+        }
+      },
+      {
+        "summary": "フォローアップはB/要診断木/D2。表6-1のD2の名称は危険木、同頁6.5の本文は枯死となっており、表記を独断で統一しない。",
+        "source": {
+          "title": "樹木点検マニュアル 後半",
+          "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf",
+          "locator": "紙面p48 表6-1・6.5／PDF16頁"
+        }
+      }
+    ]
   },
   {
     "id": "kobe",
@@ -209,16 +290,25 @@
     "prefecture": "兵庫県",
     "scope": "街路樹",
     "edition": "2025年度点検・2026掲載",
-    "available": "緊急度Ⅰ～Ⅳ",
-    "limitations": "複数項目の総合則は未確認。公園へ流用しない",
-    "locator": "街路樹の点検項目と判断の指標 全1頁",
+    "available": "街路樹の緊急度Ⅰ～Ⅳと処置を示す。複数項目の総合方法はこのカードでは収録せず、最大値を採る等の規則を補わない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "PDF1頁（全1頁）",
     "urls": [
-      "https://www.city.kobe.lg.jp/a10019/kurashi/machizukuri/flower/gairoju/anzentaisaku.html",
       "https://www.city.kobe.lg.jp/documents/78025/gairozyukikenndo.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/kobe.md",
-    "search_text": "神戸市 兵庫県 街路樹 緊急度Ⅰ～Ⅳ 複数項目の総合則は未確認。公園へ流用しない 街路樹の点検項目と判断の指標 全1頁 \n\n兵庫県内／神戸市【A：街路樹】\n\n公式入口： [出典を開く](https://www.city.kobe.lg.jp/a10019/kurashi/machizukuri/flower/gairoju/anzentaisaku.html) （更新2026-08-07）。2025年度市内全街路樹高木点検の欄からリンク。\n\n『街路樹の点検項目と判断の指標』全1頁： [出典を開く](https://www.city.kobe.lg.jp/documents/78025/gairozyukikenndo.pdf)\n\n表を画像原本でも確認。緊急度Ⅰ～Ⅳ、処置は通常管理／経過観察（必要に応じ伐採・剪定等）／伐採／早期伐採。\n\n例：開口空洞は幹周1/5以上がⅡ、1/3以上で未芯達がⅢ、1/3以上かつ芯達がⅣ。鋼棒貫入は径1/4未満がⅡ、1/4以上がⅢ、中心貫入・内部広範囲腐朽推測がⅣ。\n\n注意：この1頁には複数項目をどう総合するかの明示がない。最大値採用と推測して実装しない。公園安全点検欄の対象・運用は別なので、街路樹表を自動流用しない。\n\n\n\n"
+    "search_text": "神戸市 兵庫県 街路樹 街路樹の緊急度Ⅰ～Ⅳと処置を示す。複数項目の総合方法はこのカードでは収録せず、最大値を採る等の規則を補わない。 PDF1頁（全1頁）",
+    "facts": [
+      {
+        "summary": "街路樹の緊急度Ⅰ～Ⅳと処置を示す。複数項目の総合方法はこのカードでは収録せず、最大値を採る等の規則を補わない。",
+        "source": {
+          "title": "街路樹の点検項目と判断の指標",
+          "url": "https://www.city.kobe.lg.jp/documents/78025/gairozyukikenndo.pdf",
+          "locator": "PDF1頁（全1頁）"
+        }
+      }
+    ]
   },
   {
     "id": "hiroshima",
@@ -226,15 +316,25 @@
     "prefecture": "広島県",
     "scope": "公園樹点検",
     "edition": "R6.7.12改訂",
-    "available": "部位ごとの有無・A/B/Cと措置条件",
-    "limitations": "Cは伐採・せん定等の措置であり一律伐採ではない",
-    "locator": "公園編 紙面p37～38／PDF40～41頁",
+    "available": "公園樹の点検表では部位ごとの有無やA/B/Cを用いる。措置には伐採・せん定等が含まれ、Cを一律に伐採と読み替えない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "公園緑化編p37～38／PDF40～41頁",
     "urls": [
       "https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/018/362/244145.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/hiroshima.md",
-    "search_text": "広島市 広島県 公園樹点検 部位ごとの有無・A/B/Cと措置条件 Cは伐採・せん定等の措置であり一律伐採ではない 公園編 紙面p37～38／PDF40～41頁 \n\n広島県内／広島市【A：公園樹点検表。道路樹は別節】\n\n『道路・公園緑化ガイドライン』R6.7.12改訂。 [出典を開く](https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/018/362/244145.pdf)\n\n公園緑化編・冊子37～38頁＝PDF40～41頁。37頁は日常/追加/専門診断、38頁は樹木点検表作成例。\n\n12項目、項目によって有無またはA/B/C。①②の該当、又は③～⑦・⑩～⑫のCがあれば伐採・せん定等の措置。困難な判断は樹木医の専門診断を検討。\n\n例：空洞が芯に達し周囲長比1/3以上でC、根元からの不自然な揺らぎ等でもC。\n\n注意：『C＝必ず伐採』ではなく伐採・せん定等の措置。これは公園編の表であり街路樹全般の統一総合ランクと誤認しない。\n\n\n\n"
+    "search_text": "広島市 広島県 公園樹点検 公園樹の点検表では部位ごとの有無やA/B/Cを用いる。措置には伐採・せん定等が含まれ、Cを一律に伐採と読み替えない。 公園緑化編p37～38／PDF40～41頁",
+    "facts": [
+      {
+        "summary": "公園樹の点検表では部位ごとの有無やA/B/Cを用いる。措置には伐採・せん定等が含まれ、Cを一律に伐採と読み替えない。",
+        "source": {
+          "title": "道路・公園緑化ガイドライン",
+          "url": "https://www.city.hiroshima.lg.jp/_res/projects/default_project/_page_/001/018/362/244145.pdf",
+          "locator": "公園緑化編p37～38／PDF40～41頁"
+        }
+      }
+    ]
   },
   {
     "id": "kashiwa",
@@ -242,33 +342,51 @@
     "prefecture": "千葉県",
     "scope": "公園内高木の管理",
     "edition": "2016.9.1",
-    "available": "防犯・生活環境・電線等の伐採条件",
-    "limitations": "倒伏危険度表とは別。距離だけで判定しない",
+    "available": "防犯、生活環境、電線、樹木競合に関する管理上の伐採条件を示す。距離条件には他の条件・例外が伴うため、距離だけで決めない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
     "locator": "PDF7～9頁「7 伐採基準」",
     "urls": [
-      "https://www.city.kashiwa.lg.jp/koenryokuchi/shiseijoho/keikaku/shigoto/kaihatsu/kouen/koboku.html",
       "https://www.city.kashiwa.lg.jp/documents/4587/01.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/kashiwa.md",
-    "search_text": "柏市 千葉県 公園内高木の管理 防犯・生活環境・電線等の伐採条件 倒伏危険度表とは別。距離だけで判定しない PDF7～9頁「7 伐採基準」 \n\n千葉: 柏市の具体的伐採条件を確認（健全度判定表とは別）\n\n管理主体: 柏市、対象: 市の公園内高木。『公園内高木の管理指針』2016-09-01策定。掲載ページ更新2021-02-26。\n\n入口 [出典を開く](https://www.city.kashiwa.lg.jp/koenryokuchi/shiseijoho/keikaku/shigoto/kaihatsu/kouen/koboku.html)\n\n原本 [出典を開く](https://www.city.kashiwa.lg.jp/documents/4587/01.pdf) （29.5MB/10頁。Web抽出上限で失敗したがローカル取得し全文抽出、PDF8頁を画像照合）\n\nPDF7–9頁「7 伐採基準」。防犯、周辺生活環境、電線対策、樹木競合を区分。境界との概ね2m以内＋苦情/管理費の条件、電線との2m以内＋防護管設置不可/剪定負担等、各条件と例外がある。2m以内なら無条件に伐採ではない。PDF8頁の急斜面・高木剪定困難の例外も残す。\n\nPDF7頁: 剪定等で見通しや侵入防止を改善できない場合。PDF9頁: 混み合いの解消による健全育成について専門家が判断する間伐。\n\nこれは管理上の条件分岐で、腐朽/空洞率による倒木危険度診断表ではない。千葉県全域に適用しない。\n\n船橋市マニュアルの存在は上記国事例集印刷p21/PDF29頁でも確認したが本体未取得。次の手は船橋の実務マニュアルとカルテ。\n\n\n\n"
+    "search_text": "柏市 千葉県 公園内高木の管理 防犯、生活環境、電線、樹木競合に関する管理上の伐採条件を示す。距離条件には他の条件・例外が伴うため、距離だけで決めない。 PDF7～9頁「7 伐採基準」",
+    "facts": [
+      {
+        "summary": "防犯、生活環境、電線、樹木競合に関する管理上の伐採条件を示す。距離条件には他の条件・例外が伴うため、距離だけで決めない。",
+        "source": {
+          "title": "公園内高木の管理指針",
+          "url": "https://www.city.kashiwa.lg.jp/documents/4587/01.pdf",
+          "locator": "PDF7～9頁「7 伐採基準」"
+        }
+      }
+    ]
   },
   {
     "id": "takamatsu",
     "issuer": "高松市",
     "prefecture": "香川県",
-    "scope": "街路樹管理計画・路線カルテ",
+    "scope": "街路樹管理計画・点検手順",
     "edition": "R7.12",
-    "available": "点検周期・管理手順",
-    "limitations": "個木の〇△×の具体閾値は未収載",
-    "locator": "紙面p37～38／PDF41～42頁、路線カルテPDF63頁以降",
+    "available": "通常巡回・定期点検・詳細調査の段階を示す。定期点検は全路線で5年ごと、危険性が高い樹木は1～3年としている。個木の数値閾値はこのカードには収録しない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "紙面p37～38／PDF41～42頁",
     "urls": [
-      "https://www.city.takamatsu.kagawa.jp/smph/kurashi/shinotorikumi/keikaku/sonota/gairozyukanrikeikaku.html",
       "https://www.city.takamatsu.kagawa.jp/kurashi/shinotorikumi/keikaku/sonota/gairozyukanrikeikaku.files/gairozyumanagementplan.pdf"
     ],
     "verification": "過去調査継承（2026-11-13/15）。適用契約・全表の再検証は未完了。",
     "file": "references/cards/takamatsu.md",
-    "search_text": "高松市 香川県 街路樹管理計画・路線カルテ 点検周期・管理手順 個木の〇△×の具体閾値は未収載 紙面p37～38／PDF41～42頁、路線カルテPDF63頁以降 \n\n香川県内・高松市：管理計画と路線カルテの実体【手順・調査記録、危険度閾値表ではない】\n\n『高松市街路樹管理計画』令和7年12月。市管理街路樹。\n\n公式入口: [出典を開く](https://www.city.takamatsu.kagawa.jp/smph/kurashi/shinotorikumi/keikaku/sonota/gairozyukanrikeikaku.html)\n\nPDF原典: [出典を開く](https://www.city.takamatsu.kagawa.jp/kurashi/shinotorikumi/keikaku/sonota/gairozyukanrikeikaku.files/gairozyumanagementplan.pdf)\n\n冊子37頁/PDF41頁：通常巡回、定期点検、詳細調査の3段階。定期点検5年ごと全路線、危険性が高い樹木は1〜3年。外観/機器診断〇△×と処置フロー。\n\n冊子38頁/PDF42頁：各段階の項目例。ただし詳細は今後の管理内容を踏まえ作成する旨が明記され、〇△×に割り当てる具体閾値は未収載。腐朽・空洞の割合で危険度評価する説明から50%等の値を推測しない。\n\n冊子42頁/PDF46頁：現状は統一管理基準・システムがないとの整理。\n\n冊子55頁/PDF63頁以降に『街路樹診断カルテ』実例。路線単位の問題点チェックと本数集計・写真。歩道幅員、建築限界、倒木可能性、交通安全施設、根上がり、強剪定、植栽間隔などであり、個体の倒伏危険判定カルテと同一視しない。\n\n冊子49頁/PDF53頁の参考文献に東京R3マニュアルがあるが、参照文献掲載だけでは東京基準の全面採用証拠にならない。\n\n77MBのためWeb取得は容量エラー。原PDFを直接取得して本文を確認済み。\n\n\n\n"
+    "search_text": "高松市 香川県 街路樹管理計画・点検手順 通常巡回・定期点検・詳細調査の段階を示す。定期点検は全路線で5年ごと、危険性が高い樹木は1～3年としている。個木の数値閾値はこのカードには収録しない。 紙面p37～38／PDF41～42頁",
+    "facts": [
+      {
+        "summary": "通常巡回・定期点検・詳細調査の段階を示す。定期点検は全路線で5年ごと、危険性が高い樹木は1～3年としている。個木の数値閾値はこのカードには収録しない。",
+        "source": {
+          "title": "高松市街路樹管理計画",
+          "url": "https://www.city.takamatsu.kagawa.jp/kurashi/shinotorikumi/keikaku/sonota/gairozyukanrikeikaku.files/gairozyumanagementplan.pdf",
+          "locator": "紙面p37～38／PDF41～42頁"
+        }
+      }
+    ]
   },
   {
     "id": "hokkaido",
@@ -276,18 +394,34 @@
     "prefecture": "北海道",
     "scope": "道路上の並木・一次／二次／三次",
     "edition": "H30.2",
-    "available": "一次A～D、二次A/B1/B2/C、三次はB3あり",
-    "limitations": "三次の全数値境界未確定。一次Cと二次Cは別",
-    "locator": "本文p8 表3、p40 表29。三次は様式2。三次B3：資料編PDF4頁 様式2",
+    "available": "一次はA～D、二次はA/B1/B2/Cを用いる。段階ごとに意味が異なるため同じ文字をそのまま対応させない。 三次診断にはB3があり、A/B1/B2/B3/Cの5区分となる。二次のA/B1/B2/Cとは別欄である。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "本文p8 表3・p40 表29／PDF10・42頁／様式2・印刷p48／PDF4頁",
     "urls": [
-      "https://www.pref.hokkaido.lg.jp/kn/sbs/di/gairojutennken_manual.html",
       "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/1/_/02%20gairojutennken201802-1.pdf",
-      "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf#page=4",
       "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf"
     ],
     "verification": "2026-11-15調査の記載を継承。配布時の全原典再検証なし。",
     "file": "references/cards/hokkaido.md",
-    "search_text": "北海道 北海道 道路上の並木・一次／二次／三次 一次A～D、二次A/B1/B2/C、三次はB3あり 三次の全数値境界未確定。一次Cと二次Cは別 本文p8 表3、p40 表29。三次は様式2。三次B3：資料編PDF4頁 様式2 \n\n北海道\n\n街路樹点検マニュアル、平成30年2月。公式掲載ページの更新日2026-05-28と文書制定日を区別。\n\n掲載：[出典を開く](https://www.pref.hokkaido.lg.jp/kn/sbs/di/gairojutennken_manual.html)\n\n本編：[出典を開く](https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/1/_/02%20gairojutennken201802-1.pdf)\n\n適用：道路管理者が設ける道路上の並木。一次徒歩点検→二次専門外観→必要時三次精密。\n\n本文p8表3：一次A概ね異常なし、B要観察、C二次点検、D枯死。①空洞②キノコ③腐朽枯死④押した揺れが1つ以上、又は⑤〜⑨が3つ以上でC。後半項目2つ以下はB。\n\n本文p40表29：二次外観はA/B1/B2/C。活力度1〜2/3/4/5及び部位被害を組み合わせる。一次のCと二次のCは別の意味。\n\n留意：基本10年に1回以上、Bは短縮。仕様による上書き確認が必要。\n\n資料編PDF4頁の様式2に二次A/B1/B2/Cと三次A/B1/B2/B3/Cの別欄がある（2026-11-13帳票調査の継承）。三次の全数値境界は未確定。\n\n\n\n## 段階別の名称\n\n資料編PDF4頁（印刷48頁）様式2を画像照合。三次はA健全／B1健全に近い／B2概ね健全／B3不健全に近い／C不健全。二次はA健全か健全に近い／B1注意すべき被害／B2著しい被害／C不健全。同じB1・B2でも二次と三次は異なる。\n\n一次は本文p8＝PDF10頁 表3、二次は本文p40＝PDF42頁 表29。三次の全数値境界は未確定。\n\n\n## 関連帳票（契約・版を区別）\n\n- 様式1 街路樹1次点検表（issuer_manual、pdf_form）\n  - [平成30年2月・pdf_pages: [2]](https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf)\n- 様式1別紙 写真（issuer_manual、pdf_form）\n  - [平成30年2月・pdf_pages: [3]](https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf)\n- 様式2 街路樹専門診断調査カルテ（issuer_manual、pdf_form）\n  - [平成30年2月・pdf_pages: [4]](https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf)\n- 様式2別紙 局部写真（issuer_manual、pdf_form）\n  - [平成30年2月・pdf_pages: [5]](https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf)\n 三次診断 3次診断 二次診断"
+    "search_text": "北海道 北海道 道路上の並木・一次／二次／三次 一次はA～D、二次はA/B1/B2/Cを用いる。段階ごとに意味が異なるため同じ文字をそのまま対応させない。 三次診断にはB3があり、A/B1/B2/B3/Cの5区分となる。二次のA/B1/B2/Cとは別欄である。 本文p8 表3・p40 表29／PDF10・42頁／様式2・印刷p48／PDF4頁",
+    "facts": [
+      {
+        "summary": "一次はA～D、二次はA/B1/B2/Cを用いる。段階ごとに意味が異なるため同じ文字をそのまま対応させない。",
+        "source": {
+          "title": "街路樹点検マニュアル 本編",
+          "url": "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/1/_/02%20gairojutennken201802-1.pdf",
+          "locator": "本文p8 表3・p40 表29／PDF10・42頁"
+        }
+      },
+      {
+        "summary": "三次診断にはB3があり、A/B1/B2/B3/Cの5区分となる。二次のA/B1/B2/Cとは別欄である。",
+        "source": {
+          "title": "街路樹点検マニュアル 資料編",
+          "url": "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf",
+          "locator": "様式2・印刷p48／PDF4頁"
+        }
+      }
+    ]
   },
   {
     "id": "tokyo",
@@ -295,54 +429,77 @@
     "prefecture": "東京都",
     "scope": "街路樹・外観／機器／総合",
     "edition": "R3年度・正誤表R3.6.30",
-    "available": "A/B1/B2/C",
-    "limitations": "数値は参考値。環境・形状・根系等を総合",
-    "locator": "本文p65～66 表III-4・1、測定方法p57～62",
+    "available": "総合判定はA/B1/B2/C。腐朽空洞率の参考値は10%未満、10%以上30%未満、30%以上50%未満、50%以上に対応する。外観・環境・形状・根系等も考慮するため、50%だけで伐採を確定しない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "本文p65～66・表III-4・1",
     "urls": [
-      "https://www.kensetsu.metro.tokyo.lg.jp/park/ryokuka/hyoushi/hyoushi7-1",
-      "https://www.kensetsu.metro.tokyo.lg.jp/content/000051876.pdf",
-      "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053663",
-      "https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf",
-      "https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664"
+      "https://www.kensetsu.metro.tokyo.lg.jp/content/000051876.pdf"
     ],
     "verification": "2026-11-15調査の記載を継承。配布時の全原典再検証なし。",
     "file": "references/cards/tokyo.md",
-    "search_text": "東京都建設局 東京都 街路樹・外観／機器／総合 A/B1/B2/C 数値は参考値。環境・形状・根系等を総合 本文p65～66 表III-4・1、測定方法p57～62 \n\n東京都\n\n令和3年度 街路樹診断等マニュアル。東京都建設局。\n\n掲載：[出典を開く](https://www.kensetsu.metro.tokyo.lg.jp/park/ryokuka/hyoushi/hyoushi7-1)\n\n本編：[出典を開く](https://www.kensetsu.metro.tokyo.lg.jp/content/000051876.pdf)\n\n訂正箇所（令和3年6月30日）、参考資料、点検表Excelも掲載ページにあり。実装時は訂正反映を確認。\n\n外観（活力度・部位）、必要な機器診断、総合判定、フォローアップの構成。\n\n本文p66表III-4・1：総合判定A/B1/B2/C。腐朽空洞率の参考値は順に10%未満、10%以上30%未満、30%以上50%未満、50%以上。\n\nただしp65は機器のみの機械判定を禁止する趣旨。外観、沿道、植栽環境、風、形状、根系等も考慮し理由を記載。50%だけで自動伐採判定してはならない。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 樹木点検表様式（issuer_manual、editable_original）\n  - [令和3年度（正誤表R3.6.30を同梱）・pdf_pages: [] / sheet: 樹木点検表様式](https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053663)\n  - [令和3年度・pdf_pages: [30] / printed_pages: [132]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 点検表様式カルテ形式（issuer_manual、editable_original）\n  - [令和3年度（正誤表R3.6.30を同梱）・pdf_pages: [] / sheet: 点検表様式カルテ形式](https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053663)\n  - [令和3年度・pdf_pages: [32] / printed_pages: [134]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 街路樹診断カルテ様式（issuer_manual、editable_original）\n  - [令和3年度（正誤表R3.6.30を同梱）・pdf_pages: [] / sheet: 街路樹診断カルテ様式](https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664)\n  - [令和3年度・pdf_pages: [33, 34] / printed_pages: [135, 136]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 腐朽診断カルテ(レジ)様式（issuer_manual、editable_original）\n  - [令和3年度（正誤表R3.6.30を同梱）・pdf_pages: [] / sheet: 腐朽診断カルテ(レジ)様式](https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664)\n  - [令和3年度・pdf_pages: [47] / printed_pages: [149]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 根株診断カルテ(レジ)様式（issuer_manual、editable_original）\n  - [令和3年度（正誤表R3.6.30を同梱）・pdf_pages: [] / sheet: 根株診断カルテ(レジ)様式](https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664)\n  - [令和3年度・pdf_pages: [48] / printed_pages: [150]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- フォローアップ診断カルテ様式（issuer_manual、editable_original）\n  - [令和3年度（正誤表R3.6.30を同梱）・pdf_pages: [] / sheet: フォローアップ診断カルテ様式](https://www.kensetsu.metro.tokyo.lg.jp/documents/d/kensetsu/000053664)\n  - [令和3年度・pdf_pages: [49, 50] / printed_pages: [151, 152]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 様式4 腐朽診断カルテ（ツリーガンマ）（issuer_manual、pdf_form）\n  - [令和3年度・pdf_pages: [35] / printed_pages: [137] / example_pdf_pages: [36]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 様式5 腐朽診断カルテ（アーボソニック単断面）（issuer_manual、pdf_form）\n  - [令和3年度・pdf_pages: [37] / printed_pages: [139] / example_pdf_pages: [38]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 様式6 腐朽診断カルテ（アーボソニック多断面）（issuer_manual、pdf_form）\n  - [令和3年度・pdf_pages: [39] / printed_pages: [141] / example_pdf_pages: [40]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 様式7 腐朽診断カルテ（ドクターウッズ）（issuer_manual、pdf_form）\n  - [令和3年度・pdf_pages: [41] / printed_pages: [143] / example_pdf_pages: [42]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 様式8 腐朽診断カルテ（ツリースキャン）（issuer_manual、pdf_form）\n  - [令和3年度・pdf_pages: [43] / printed_pages: [145] / example_pdf_pages: [44]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 様式9 腐朽診断カルテ（ピカス）（issuer_manual、pdf_form）\n  - [令和3年度・pdf_pages: [45] / printed_pages: [147] / example_pdf_pages: [46]](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n- 様式13 断面調査表（issuer_manual、pdf_form）\n  - [令和3年度・pdf_pages: [51, 52] / printed_pages: [153, 154] / example_pdf_pages: []](https://www.kensetsu.metro.tokyo.lg.jp/content/000051877.pdf)\n"
+    "search_text": "東京都建設局 東京都 街路樹・外観／機器／総合 総合判定はA/B1/B2/C。腐朽空洞率の参考値は10%未満、10%以上30%未満、30%以上50%未満、50%以上に対応する。外観・環境・形状・根系等も考慮するため、50%だけで伐採を確定しない。 本文p65～66・表III-4・1",
+    "facts": [
+      {
+        "summary": "総合判定はA/B1/B2/C。腐朽空洞率の参考値は10%未満、10%以上30%未満、30%以上50%未満、50%以上に対応する。外観・環境・形状・根系等も考慮するため、50%だけで伐採を確定しない。",
+        "source": {
+          "title": "令和3年度 街路樹診断等マニュアル",
+          "url": "https://www.kensetsu.metro.tokyo.lg.jp/content/000051876.pdf",
+          "locator": "本文p65～66・表III-4・1"
+        }
+      }
+    ]
   },
   {
     "id": "kanagawa",
     "issuer": "神奈川県",
     "prefecture": "神奈川県",
-    "scope": "県の街路樹定期診断・樹高5m以上",
+    "scope": "街路樹定期診断",
     "edition": "R8.4",
-    "available": "安全度I/IV、健全度I～IV",
-    "limitations": "樹皮欠損1/3境界・枝下高不等号を推測しない",
-    "locator": "本文p6～7、カルテPDF11～12頁",
+    "available": "安全度と健全度を別に評価する。健全度IIIは保存上の重要性により対応が分かれるため、区分の数字だけで措置を決めない。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "本文p6～7",
     "urls": [
-      "https://www.pref.kanagawa.jp/docs/n5h/cnt/f704/index.html",
       "https://www.pref.kanagawa.jp/documents/28818/shindan.pdf"
     ],
     "verification": "2026-11-15調査の記載を継承。配布時の全原典再検証なし。",
     "file": "references/cards/kanagawa.md",
-    "search_text": "神奈川県 神奈川県 県の街路樹定期診断・樹高5m以上 安全度I/IV、健全度I～IV 樹皮欠損1/3境界・枝下高不等号を推測しない 本文p6～7、カルテPDF11～12頁 \n\n神奈川県\n\n街路樹定期診断マニュアル、令和8年4月、県土整備局道路部道路管理課。\n\n掲載：[出典を開く](https://www.pref.kanagawa.jp/docs/n5h/cnt/f704/index.html)\n\n本文：[出典を開く](https://www.pref.kanagawa.jp/documents/28818/shindan.pdf)\n\n高さ5m以上の高木が対象、原則5年ごと、樹木医が診断。国総研1059号、東京国道事務所の令和4年2月点検マニュアル等を参照。\n\np6〜7：安全度I/IVと健全度I〜IVを別々に評価し、それぞれ必要措置を実施。各欄は最も高いランク。\n\n健全度II：原則3年以内に再診断。III-1（保存重要樹木）：診断翌年度までに詳細診断して措置検討。III-2（それ以外）：診断翌年度までに伐採。IV：緊急伐採。安全度IVの対応は剪定又は伐採。\n\n閾値例：腐朽範囲1/3未満II、1/3以上III。表の樹皮欠損には1/3以下/1/3以上が重複して見えるため、境界を推測してコード化しない。枝下高の表も列・不等号を画像で再確認してから抽出する。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 表4 定期診断カルテ（issuer_manual、pdf_form）\n  - [令和8年4月・pdf_pages: [11]](https://www.pref.kanagawa.jp/documents/28818/shindan.pdf)\n- 表5 定期診断一覧表（記入例）（issuer_manual、pdf_example）\n  - [令和8年4月・pdf_pages: [12]](https://www.pref.kanagawa.jp/documents/28818/shindan.pdf)\n"
+    "search_text": "神奈川県 神奈川県 街路樹定期診断 安全度と健全度を別に評価する。健全度IIIは保存上の重要性により対応が分かれるため、区分の数字だけで措置を決めない。 本文p6～7",
+    "facts": [
+      {
+        "summary": "安全度と健全度を別に評価する。健全度IIIは保存上の重要性により対応が分かれるため、区分の数字だけで措置を決めない。",
+        "source": {
+          "title": "街路樹定期診断マニュアル",
+          "url": "https://www.pref.kanagawa.jp/documents/28818/shindan.pdf",
+          "locator": "本文p6～7"
+        }
+      }
+    ]
   },
   {
     "id": "kumamoto",
     "issuer": "熊本県",
     "prefecture": "熊本県",
     "scope": "街路樹・簡易診断",
-    "edition": "制定年H24.3は過去台帳記録",
-    "available": "簡易診断A～E",
-    "limitations": "Eは緊急処置の別経路。個木簡易診断と路線票を分離",
-    "locator": "冊子p70／第3章PDF38頁",
+    "edition": "制定年月は本カードでは記載しない",
+    "available": "簡易診断では各項目の最大評価値を総合評価に使い、0はA、1はB、2はC、3～4はDとなる。Eは危険性が高い場合の緊急処置の経路として分けて読む。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "冊子p70／PDF38頁",
     "urls": [
-      "https://www.pref.kumamoto.jp/soshiki/103/1294.html",
-      "https://www.pref.kumamoto.jp/uploaded/attachment/14504.pdf",
-      "https://www.pref.kumamoto.jp/uploaded/attachment/14505.pdf"
+      "https://www.pref.kumamoto.jp/uploaded/attachment/14504.pdf"
     ],
     "verification": "2026-11-15調査の記載を継承。配布時の全原典再検証なし。",
     "file": "references/cards/kumamoto.md",
-    "search_text": "熊本県 熊本県 街路樹・簡易診断 簡易診断A～E Eは緊急処置の別経路。個木簡易診断と路線票を分離 冊子p70／第3章PDF38頁 \n\n熊本県\n\n原典：街路樹維持管理・改善マニュアル。公式公開ページ更新2020-08-01（策定年とは区別、本文の正確な制定年未確認）。\n\n[出典を開く](https://www.pref.kumamoto.jp/soshiki/103/1294.html)\n\n3章PDF：[出典を開く](https://www.pref.kumamoto.jp/uploaded/attachment/14504.pdf)\n\n対象：街路樹。日常点検→簡易診断→詳細診断。異常木の簡易診断は樹木医・街路樹診断士等。必要なものに機器を使用。\n\n冊子70頁／当該PDF38頁、簡易診断カルテ参考様式1/2を画像で確認。\n\n樹勢・骨格大枝・幹・根元（地際20cm迄）の評価値0～4。各項目で最も高い値を総合評価に採用。\n\n0→A健全・5年後定期点検、1→B概ね異常なし・2年後経過観察、2→C軽度異常・1年後経過観察、3～4→D重大異常・要詳細診断。\n\nE危険性高いは別の緊急処置ルート。シロアリ生息、又は危険なぶら下がり枝、根元の大きな揺らぎ、葉擦支障枝、害虫集団発生等、緊急処置を要する特記事項があるとE。処置後、伐採以外は本票で再評価。\n\n重要：これは『簡易診断』のA～E。最終精密診断の一律伐採基準ではない。東京等と文字ラベルだけで互換変換しない。\n\n計測例：根元樹皮異常の横幅は根元周囲長の1/10未満→1、1/10以上1/3未満→2。空洞は横幅1/3未満→3、1/3以上→4。腐朽面積率やt/Rとは別指標。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- 街路樹管理チェックリスト（18項目）（issuer_manual、pdf_form）\n  - [平成24年3月・pdf_pages: [5]](https://www.pref.kumamoto.jp/uploaded/attachment/14505.pdf)\n"
+    "search_text": "熊本県 熊本県 街路樹・簡易診断 簡易診断では各項目の最大評価値を総合評価に使い、0はA、1はB、2はC、3～4はDとなる。Eは危険性が高い場合の緊急処置の経路として分けて読む。 冊子p70／PDF38頁",
+    "facts": [
+      {
+        "summary": "簡易診断では各項目の最大評価値を総合評価に使い、0はA、1はB、2はC、3～4はDとなる。Eは危険性が高い場合の緊急処置の経路として分けて読む。",
+        "source": {
+          "title": "街路樹維持管理・改善マニュアル 第3章",
+          "url": "https://www.pref.kumamoto.jp/uploaded/attachment/14504.pdf",
+          "locator": "冊子p70／PDF38頁"
+        }
+      }
+    ]
   },
   {
     "id": "mlit-park",
@@ -350,19 +507,33 @@
     "prefecture": "全国",
     "scope": "都市公園・点検診断",
     "edition": "2026.3.30改訂",
-    "available": "総合A/B/C/D",
-    "limitations": "管理者の採用条件を確認。全国全樹木の一律基準ではない",
-    "locator": "本文p12、参考資料p24～27",
+    "available": "都市公園の点検では管理者が危険度・措置を想定した判定基準を定め、専門技術者の見解を踏まえる。 参考資料の総合判定はA/B/C/D。腐朽率だけでなく外観・活力度等の条件を合わせて読む。",
+    "limitations": "対象施設・管理者・契約の指定版を照合してから適用する。未収録の条件は原典で確認し、推測しない。",
+    "locator": "本文p12／参考資料p24～27",
     "urls": [
-      "https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000109.html",
       "https://www.mlit.go.jp/toshi/park/content/001414802.pdf",
-      "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
-      "https://www.mlit.go.jp/toshi/park/content/001414804.docx",
-      "https://www.mlit.go.jp/toshi/park/content/001414805.docx",
-      "https://www.mlit.go.jp/toshi/park/content/001414806.docx"
+      "https://www.mlit.go.jp/toshi/park/content/001414803.pdf"
     ],
     "verification": "2026-11-15調査の記載を継承。配布時の全原典再検証なし。",
     "file": "references/cards/mlit-park.md",
-    "search_text": "国土交通省 全国 都市公園・点検診断 総合A/B/C/D 管理者の採用条件を確認。全国全樹木の一律基準ではない 本文p12、参考資料p24～27 \n\n国の公園\n\n発行: 国土交通省都市局公園緑地・景観課。都市公園の樹木の点検・診断に関する指針（案）、2026-03-30改訂。2017版だけで固定しない。\n\n入口 [出典を開く](https://www.mlit.go.jp/toshi/park/toshi_parkgreen_tk_000109.html)\n\n本文 [出典を開く](https://www.mlit.go.jp/toshi/park/content/001414802.pdf)\n\n参考資料 [出典を開く](https://www.mlit.go.jp/toshi/park/content/001414803.pdf)\n\n評価/総合判定Word [出典を開く](https://www.mlit.go.jp/toshi/park/content/001414804.docx)\n\n適用: 都市公園法にいう都市公園の樹木、維持管理段階。全国の全樹木への法定統一合否表ではない。\n\n本文p12「点検結果の評価と記録」: 管理者が危険度・措置を想定した判定基準を定める。伐採等は専門技術者見解を踏まえる。\n\n参考資料p25: 外観A/B/C/D、活力度1/2/3/4。p26総合A健全、B健全に近い、C要注意、D危険木。東京のA/B1/B2/Cと混同しない。\n\np26の50%は腐朽面積/幹断面積。外観評価や活力度の分岐条件、γ線測定/他機器の適切な代替値という注記を伴う。50%だけで自動伐採判断にしない。\n\n参考資料p24は各評価・点検票・カルテを使用する工程を区別。p27以降に票・カルテ。\n\n\n\n\n\n## 関連帳票（契約・版を区別）\n\n- Ⅵ 樹木点検票（個表）（national_reference、editable_original）\n  - [令和8年3月30日・pdf_pages: [28] / printed_pages: [27] / example_pdf_pages: []](https://www.mlit.go.jp/toshi/park/content/001414803.pdf)\n  - [令和8年3月30日掲載版・section: Ⅵ 樹木点検票（個表）](https://www.mlit.go.jp/toshi/park/content/001414805.docx)\n- Ⅵ 樹木点検票（総括表）（national_reference、editable_original）\n  - [令和8年3月30日・pdf_pages: [29] / printed_pages: [28] / example_pdf_pages: []](https://www.mlit.go.jp/toshi/park/content/001414803.pdf)\n  - [令和8年3月30日掲載版・section: Ⅵ 樹木点検票（総括表）](https://www.mlit.go.jp/toshi/park/content/001414805.docx)\n- Ⅶ 樹木診断カルテ（診断・総合判定／図版等）（national_reference、editable_original）\n  - [令和8年3月30日・pdf_pages: [30, 31] / printed_pages: [29, 30] / example_pdf_pages: []](https://www.mlit.go.jp/toshi/park/content/001414803.pdf)\n  - [令和8年3月30日掲載版・section: Ⅶ 樹木診断カルテ（診断・総合判定／図版等）](https://www.mlit.go.jp/toshi/park/content/001414806.docx)\n 国交省"
+    "search_text": "国土交通省 全国 都市公園・点検診断 都市公園の点検では管理者が危険度・措置を想定した判定基準を定め、専門技術者の見解を踏まえる。 参考資料の総合判定はA/B/C/D。腐朽率だけでなく外観・活力度等の条件を合わせて読む。 本文p12／参考資料p24～27",
+    "facts": [
+      {
+        "summary": "都市公園の点検では管理者が危険度・措置を想定した判定基準を定め、専門技術者の見解を踏まえる。",
+        "source": {
+          "title": "都市公園の樹木の点検・診断に関する指針（案）",
+          "url": "https://www.mlit.go.jp/toshi/park/content/001414802.pdf",
+          "locator": "本文p12"
+        }
+      },
+      {
+        "summary": "参考資料の総合判定はA/B/C/D。腐朽率だけでなく外観・活力度等の条件を合わせて読む。",
+        "source": {
+          "title": "都市公園の樹木の点検・診断に関する指針（案）参考資料",
+          "url": "https://www.mlit.go.jp/toshi/park/content/001414803.pdf",
+          "locator": "参考資料p24～27"
+        }
+      }
+    ]
   }
 ]
