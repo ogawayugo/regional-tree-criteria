@@ -1,4 +1,4 @@
-"""候補・県の探索状況・帳票を検索。適用判断や診断計算は行わない。"""
+"""候補・収録状況・帳票を検索。適用判断や診断計算は行わない。"""
 from pathlib import Path
 import argparse,json,sys,unicodedata,re
 ROOT=Path(__file__).resolve().parents[1]
@@ -27,7 +27,7 @@ def lookup(query):
         return [{**r,'match':'region_fallback' if fallback else 'all_terms','unmatched_terms':[t for t in rest if t not in text(r)]} for r in chosen]
     found=select(cards);foundforms=select(forms)
     cov=[c for c in coverage if any(t in aliases(c['prefecture']) for t in regions)]
-    return {'status':'results' if found or foundforms or cov else 'no_match','note':'地域のみ一致する候補は工程・条件への適用確定ではない。0件も資料の不存在を意味しない。県の状況は県発行資料に限定。','candidates':found,'prefecture_coverage':cov,'forms':foundforms}
+    return {'status':'results' if found or foundforms or cov else 'no_match','note':'地域のみ一致する候補は工程・条件への適用確定ではない。0件も資料の不存在を意味しない。県一覧はこの配布版の収録状況のみ。未収録の基準は推測しない。','candidates':found,'prefecture_coverage':cov,'forms':foundforms}
 if __name__=='__main__':
     sys.stdout.reconfigure(encoding='utf-8')
     a=argparse.ArgumentParser();a.add_argument('query',nargs='+');args=a.parse_args()
