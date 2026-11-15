@@ -1,0 +1,322 @@
+{
+  "schema_version": 1,
+  "version": "0.1.3",
+  "sources": {
+    "osaka-scope": {
+      "title": "樹木点検マニュアル 前半",
+      "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/01_tenken1.pdf#page=4",
+      "pdf_page": 4,
+      "printed_page": "1",
+      "section": "1.3 適用の範囲",
+      "sha256": "d7e7e27665cc6e46de88d16b23ae6f6b8bc0cd4d424bda200f707e4acf982285",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    },
+    "osaka-inspection": {
+      "title": "樹木点検マニュアル 前半",
+      "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/01_tenken1.pdf#page=35",
+      "pdf_page": 35,
+      "printed_page": "32",
+      "section": "表4-22",
+      "sha256": "d7e7e27665cc6e46de88d16b23ae6f6b8bc0cd4d424bda200f707e4acf982285",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    },
+    "osaka-target": {
+      "title": "樹木点検マニュアル 後半",
+      "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=1",
+      "pdf_page": 1,
+      "printed_page": "33",
+      "section": "5 樹木医診断",
+      "sha256": "846b0bd70b3c2b669adc10554f75e43e6be95d12547be0e193f9f2ffffc3e182",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    },
+    "osaka-overall": {
+      "title": "樹木点検マニュアル 後半",
+      "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=14",
+      "pdf_page": 14,
+      "printed_page": "46",
+      "section": "表5-12",
+      "sha256": "846b0bd70b3c2b669adc10554f75e43e6be95d12547be0e193f9f2ffffc3e182",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    },
+    "osaka-followup": {
+      "title": "樹木点検マニュアル 後半",
+      "url": "https://www.city.osaka.lg.jp/kensetsu/cmsfiles/contents/0000673/673477/02_tenken2.pdf#page=16",
+      "pdf_page": 16,
+      "printed_page": "48",
+      "section": "表6-1・6.5",
+      "sha256": "846b0bd70b3c2b669adc10554f75e43e6be95d12547be0e193f9f2ffffc3e182",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    },
+    "hokkaido-form": {
+      "title": "街路樹点検マニュアル 資料編",
+      "url": "https://www.pref.hokkaido.lg.jp/fs/6/0/8/9/4/9/2/_/03%20gairojutennken201802-2.pdf#page=4",
+      "pdf_page": 4,
+      "printed_page": "48",
+      "section": "様式2",
+      "sha256": "7155342ab34e083d5b777265d72a5b2c59d45a1c97bb85c0d50959b3503fe217",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    },
+    "hitachi-text": {
+      "title": "平和通り桜更新実施計画 第II期",
+      "url": "https://www.city.hitachi.lg.jp/_res/projects/default_project/_page_/001/013/447/03.pdf#page=4",
+      "pdf_page": 4,
+      "printed_page": "2",
+      "section": "早期・優先的に撤去すべき危険木の選定条件",
+      "sha256": "20db3bd770389d7b89f23a57617e0737812b7880f1d26e64e21fd81b4b3b66a0",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    },
+    "hitachi-table": {
+      "title": "平和通り桜更新実施計画 第II期",
+      "url": "https://www.city.hitachi.lg.jp/_res/projects/default_project/_page_/001/013/447/03.pdf#page=12",
+      "pdf_page": 12,
+      "printed_page": "10",
+      "section": "表5 機器診断判定参考基準値",
+      "sha256": "20db3bd770389d7b89f23a57617e0737812b7880f1d26e64e21fd81b4b3b66a0",
+      "checked_at": "2026-11-16",
+      "verification": "原典本文照合。過去の該当表画像照合記録を継承。全文・現行契約の検証ではない。"
+    }
+  },
+  "claims": {
+    "osaka.scope": {
+      "kind": "対象",
+      "text": "大阪市樹木管理者の街路樹・公園樹を対象とする。",
+      "source_ids": [
+        "osaka-scope"
+      ],
+      "status": "checked"
+    },
+    "osaka.exclusion": {
+      "kind": "除外",
+      "text": "大阪港湾局所管の街路樹・臨港緑地等は適用対象から除外される。",
+      "source_ids": [
+        "osaka-scope"
+      ],
+      "status": "checked"
+    },
+    "osaka.inspection": {
+      "kind": "判定区分",
+      "text": "樹木点検の区分はA/B/要診断木/D2。",
+      "source_ids": [
+        "osaka-inspection"
+      ],
+      "status": "checked"
+    },
+    "osaka.target": {
+      "kind": "適用条件",
+      "text": "樹木医診断は、点検・フォローアップで要診断木となった高木が対象。",
+      "source_ids": [
+        "osaka-target"
+      ],
+      "status": "checked"
+    },
+    "osaka.overall": {
+      "kind": "判定区分",
+      "text": "樹木医診断の総合判定はA/B/C/D1/D2。",
+      "source_ids": [
+        "osaka-overall"
+      ],
+      "status": "checked"
+    },
+    "osaka.followup": {
+      "kind": "判定区分",
+      "text": "フォローアップ点検の区分はB/要診断木/D2。",
+      "source_ids": [
+        "osaka-followup"
+      ],
+      "status": "checked"
+    },
+    "osaka.conflict": {
+      "kind": "資料内不一致",
+      "text": "D2の名称は表6-1では危険木、同頁6.5の本文では枯死。名称を独断で統一しない。",
+      "source_ids": [
+        "osaka-followup"
+      ],
+      "status": "conflict"
+    },
+    "hokkaido.second": {
+      "kind": "判定区分",
+      "text": "様式2の二次診断欄はA/B1/B2/C。",
+      "source_ids": [
+        "hokkaido-form"
+      ],
+      "status": "checked"
+    },
+    "hokkaido.third": {
+      "kind": "判定区分",
+      "text": "様式2の三次診断欄はA/B1/B2/B3/C。B3を含む。",
+      "source_ids": [
+        "hokkaido-form"
+      ],
+      "status": "checked"
+    },
+    "hitachi.text": {
+      "kind": "数値条件",
+      "text": "早期・優先撤去の選定条件の本文は腐朽率40%超。",
+      "source_ids": [
+        "hitachi-text"
+      ],
+      "status": "checked"
+    },
+    "hitachi.table": {
+      "kind": "数値条件",
+      "text": "表5では腐朽率40%以上を機器診断区分Cとしている。",
+      "source_ids": [
+        "hitachi-table"
+      ],
+      "status": "checked"
+    },
+    "hitachi.conflict": {
+      "kind": "資料内不一致",
+      "text": "40%ちょうどは本文の条件と表5の境界が一致しない。優先撤去への適用は確定せず、管理者への確認が必要。",
+      "source_ids": [
+        "hitachi-text",
+        "hitachi-table"
+      ],
+      "status": "conflict"
+    }
+  },
+  "routes": [
+    {
+      "selector": {
+        "issuer": "大阪市",
+        "facility": "街路樹",
+        "stage": "樹木点検",
+        "edition": "令和8年3月",
+        "topic": "判定区分",
+        "scope": "大阪市所管（大阪港湾局以外）"
+      },
+      "claim_ids": [
+        "osaka.scope",
+        "osaka.exclusion",
+        "osaka.inspection"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "大阪市",
+        "facility": "街路樹",
+        "stage": "樹木医診断",
+        "edition": "令和8年3月",
+        "topic": "判定区分",
+        "scope": "大阪市所管（大阪港湾局以外）"
+      },
+      "claim_ids": [
+        "osaka.scope",
+        "osaka.exclusion",
+        "osaka.target",
+        "osaka.overall"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "大阪市",
+        "facility": "街路樹",
+        "stage": "フォローアップ",
+        "edition": "令和8年3月",
+        "topic": "判定区分",
+        "scope": "大阪市所管（大阪港湾局以外）"
+      },
+      "claim_ids": [
+        "osaka.scope",
+        "osaka.exclusion",
+        "osaka.followup",
+        "osaka.conflict"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "大阪市",
+        "facility": "公園樹",
+        "stage": "樹木点検",
+        "edition": "令和8年3月",
+        "topic": "判定区分",
+        "scope": "大阪市所管（大阪港湾局以外）"
+      },
+      "claim_ids": [
+        "osaka.scope",
+        "osaka.exclusion",
+        "osaka.inspection"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "大阪市",
+        "facility": "公園樹",
+        "stage": "樹木医診断",
+        "edition": "令和8年3月",
+        "topic": "判定区分",
+        "scope": "大阪市所管（大阪港湾局以外）"
+      },
+      "claim_ids": [
+        "osaka.scope",
+        "osaka.exclusion",
+        "osaka.target",
+        "osaka.overall"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "大阪市",
+        "facility": "公園樹",
+        "stage": "フォローアップ",
+        "edition": "令和8年3月",
+        "topic": "判定区分",
+        "scope": "大阪市所管（大阪港湾局以外）"
+      },
+      "claim_ids": [
+        "osaka.scope",
+        "osaka.exclusion",
+        "osaka.followup",
+        "osaka.conflict"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "北海道",
+        "facility": "街路樹",
+        "stage": "二次診断",
+        "edition": "平成30年2月",
+        "topic": "判定区分",
+        "scope": "様式2の記載照会"
+      },
+      "claim_ids": [
+        "hokkaido.second"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "北海道",
+        "facility": "街路樹",
+        "stage": "三次診断",
+        "edition": "平成30年2月",
+        "topic": "判定区分",
+        "scope": "様式2の記載照会"
+      },
+      "claim_ids": [
+        "hokkaido.third"
+      ]
+    },
+    {
+      "selector": {
+        "issuer": "日立市",
+        "facility": "街路樹",
+        "stage": "機器診断・優先撤去条件",
+        "edition": "令和6年7月",
+        "topic": "40%境界",
+        "scope": "平和通りのサクラ"
+      },
+      "claim_ids": [
+        "hitachi.text",
+        "hitachi.table",
+        "hitachi.conflict"
+      ]
+    }
+  ]
+}

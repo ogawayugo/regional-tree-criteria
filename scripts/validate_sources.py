@@ -2,6 +2,7 @@
 from pathlib import Path
 from urllib.parse import urlsplit
 import hashlib,json,sys
+from answer_criteria import load_database
 ROOT=Path(__file__).resolve().parents[1]
 def validate(root=ROOT):
     cards=json.loads((root/'references/criteria.json').read_text(encoding='utf-8'))
@@ -28,7 +29,8 @@ def validate(root=ROOT):
     for name,digest in manifest['files'].items():
         assert hashlib.sha256((root/name).read_bytes()).hexdigest()==digest,name
     assert not (root/'references/survey.md').exists()
-    return {'cards':len(cards),'facts':sum(len(c['facts']) for c in cards),'forms':len(forms),'manifest_files':len(manifest['files'])}
+    evidence,_=load_database(root)
+    return {'cards':len(cards),'facts':sum(len(c['facts']) for c in cards),'forms':len(forms),'manifest_files':len(manifest['files']),'answer_claims':len(evidence['claims']),'answer_routes':len(evidence['routes'])}
 if __name__=='__main__':
     sys.stdout.reconfigure(encoding='utf-8')
     print(json.dumps(validate(),ensure_ascii=False))

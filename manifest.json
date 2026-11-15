@@ -1,10 +1,11 @@
 {
-  "version": "0.1.2",
+  "version": "0.1.3",
   "files": {
-    "SKILL.md": "f4917c697daaa695cd23ce4b8bfead8866893688418971a2a8131725cf54ec10",
-    "INSTALL.md": "9b0cee4955b51291ea6d749aae4cba739b3ab51641d7dec69f9177566dc7fff7",
+    "SKILL.md": "b189456a24d894217bd82d0a4495bdf0eec4cbe9d5a09c6ce446af72de57dbd8",
+    "INSTALL.md": "bc34f0a4d281dae6ade2d43f1b04ccdb30f954687927f2c7e151e659b2bd6cc1",
     "NOTICE.md": "29e117dd960f2455ac97b6b31891ac97b073e2def00aa69c4412a26f4dadab99",
-    "index.html": "48ceab5078eb9468647264c589fce5cecddec2661cebb521d081b8d5dd0892d4",
+    "index.html": "91322efe5a7f1bc2ffad0ea9b3f54edc71d4c854bdc905ae0b9da90e81d1a5b8",
+    "references/answer-workflow.md": "73033423a6f5676ca4e14463ddc31f850fdad8f7ff788dad19856ba783fb933f",
     "references/cards/hamamatsu.md": "026353557d2c0583f2618592ec884e585c9b5004f98918fd4b1eedda20b49a16",
     "references/cards/hiroshima.md": "547170a124f071c6fe3629700ef37d3eceace7c56cab3a4c9efb27004e5936d7",
     "references/cards/hitachi.md": "1e2ae250335a51ced60b7d3c50602c9a1550591b6e7ac8a35cdcd8cd35b27fc1",
@@ -26,10 +27,13 @@
     "references/cards/yokohama.md": "0057982831d637279a539f3419519cf237652432b33338d636de7df6c02ab902",
     "references/coverage.json": "4c2171acf1e90170342d7e6e65a2ec9739c7a944786192714281308fefa611cb",
     "references/criteria.json": "1395280ea3ae29007211e46b34dfb9c1f1de9a4adc6d8e63fd6908b5cd61592d",
+    "references/evidence.json": "4aabf43a231d9161a157d2c124a1b9c293c44f7e655a8e262ed3bdef58209617",
     "references/forms.json": "6092f38d6419ffc94427714729a335e0165281dcddca899f2612999326c19d2a",
-    "references/index.md": "2881827c3f8638ea4692ccfd732b0a6ac845d99b2ef79bdb35b5ac11f019091d",
-    "scripts/build_index.py": "a646da181ed94d40b6dfdb9f1b892eb88d7b0f3c0125feed80b03b5be4eac6ef",
+    "references/index.md": "174834707e51d430727671364c28e9561ac24b54b6bda38ea113292948b68240",
+    "scripts/answer_criteria.py": "6b6488fd96df541583b4e499e25df6e01da6a033a1fde92880f6b9cc21430a39",
+    "scripts/build_index.py": "6fe1683e1604fa38cb810ccee1c60ea1e83aff93cb6ca96a8fc7ac420e80b6bb",
     "scripts/find_criteria.py": "af304dec3c112644aaf5915d0620a4bc7e115a126d3533020f510055ddeac014",
-    "scripts/validate_sources.py": "b751dddc2dd08b50db974ffb97e4f8a2fa8017bad37283d08c53168a3f4870aa"
+    "scripts/test_answer_criteria.py": "9022fa12f695fee31ef1aca69f780376ab0646086d146cd3f695ae3f634c33af",
+    "scripts/validate_sources.py": "06b1321f03e315ba81adfa9224ddeed9affd0222212663e2b8cf672c380fedcd"
   }
 }
